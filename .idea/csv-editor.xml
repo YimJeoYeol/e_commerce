@@ -59,6 +59,20 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\대구기온\daegu_temp.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\대구기온\extremum_20230509161209.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
       </map>
     </option>
   </component>

@@ -45,6 +45,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\7_고객분류#KMeans\Mall_Customers.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
       </map>
     </option>
   </component>

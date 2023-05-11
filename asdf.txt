@@ -1,0 +1,1801 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transition-al//EN""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="ko">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=1570">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <link rel="shortcut icon" href="/assets/images/common/favicon.ico">
+    <link rel="icon" href="/assets/images/common/favicon.ico">
+    <link rel="canonical" href="https://news.imaeil.com/page/view/2023042801345397733" />
+<link rel="alternate" type="application/rss+xml" href="https://news.imaeil.com/rss">
+<script async defer src="https://www.googletagmanager.com/gtag/js?id=UA-10974882-7"></script>
+<script defer>
+              window.dataLayer = window.dataLayer || [];
+              function gtag(){dataLayer.push(arguments);}
+              gtag('js', new Date());
+            
+              gtag('config', 'UA-10974882-7');
+            </script>
+    <title>[전문] 윤석열 대통령 미 의회 연설문 한글·영문 버전 - 매일신문</title>
+<meta name="google-site-verification" content="EH4lefeZvVuH6YSbOxoh-TWJC3HJiiNRCw9Zvij66O0" />
+<meta property="fb:pages" content="1546081428979191">
+<meta property="fb:app_id" content="728989947168357">
+<meta id="meta_title" name="title" content="[전문] 윤석열 대통령 미 의회 연설문 한글&middot;영문 버전 - 매일신문"/>
+<meta name="description" content="미국을 국빈 방문 중인 윤석열 대통령이 27일(현지시간) 워..." />
+<meta name="author" content="황희진 기자 hhj@imaeil.com" />
+<meta name="news_keywords" content="" />
+<meta name="pubDate" content="2023-04-28 [01:34:59]" />
+<meta name="keywords" content="" />
+<meta name="og:type" property="og:type" content="article" />
+<meta name="og:url" property="og:url" content="https://news.imaeil.com/page/view/2023042801345397733" />
+<meta name="og:title" property="og:title" content="[전문] 윤석열 대통령 미 의회 연설문 한글&middot;영문 버전" />
+<meta name="og:description" property="og:description" content="미국을 국빈 방문 중인 윤석열 대통령이 27일(현지시간) 워..."/>
+<meta name="og:site" property="og:site" content="http://news.imaeil.com/page/view/2023042801345397733"/>
+<meta name="og:site_name" property="og:site_name" content="매일신문">
+<meta name="og:image" property="og:image" content="https://news.imaeil.com/photos/2023/04/28/2023042801340361906_l.jpg" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="[전문] 윤석열 대통령 미 의회 연설문 한글&middot;영문 버전" />
+<meta name="twitter:description" content="미국을 국빈 방문 중인 윤석열 대통령이 27일(현지시간) 워..."/>
+<meta name="twitter:image" content="https://news.imaeil.com/photos/2023/04/28/2023042801340361906_l.jpg" />
+<meta name="twitter:url" content="https://news.imaeil.com/page/view/2023042801345397733" />
+<meta property="article:section" content="대통령실·세종" />
+<meta property="dable:item_id" content="2023042801345397733">
+<meta property="dable:title" content="[전문] 윤석열 대통령 미 의회 연설문 한글&middot;영문 버전">
+<meta property="dable:author" content="황희진 기자 hhj@imaeil.com">
+<meta property="article:published_time" content="20230428T013459">
+<script type="text/javascript" src="//wcs.naver.net/wcslog.js"></script>
+<script src="https://developers.kakao.com/sdk/js/kakao.min.js"></script>
+<script defer>
+                            (function(d,a,b,l,e,_) {
+                            d[b]=d[b]||function(){(d[b].q=d[b].q||[]).push(arguments)};e=a.createElement(l);
+                            e.async=1;e.charset='utf-8';e.src='//static.dable.io/dist/plugin.min.js';
+                            _=a.getElementsByTagName(l)[0];_.parentNode.insertBefore(e,_);
+                            })(window,document,'dable','script');
+                            dable('setService', 'news.imaeil.com');
+                            dable('sendLogOnce');
+                            </script>
+
+                                <script async defer src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3682683418024773" crossorigin="anonymous"></script>
+                                <script defer type="text/javascript" src="//send.mci1.co.kr/delivery/js/31106423/22764559755" async></script>
+                                <script async defer src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script> 
+                            
+
+                                <script defer> 
+                                window.googletag = window.googletag || {cmd: []}; 
+                                googletag.cmd.push(function() { 
+                                googletag.defineSlot('/77034085/article/mid_728x90', [728, 90], 'div-gpt-ad-1640754759922-0').addService(googletag.pubads()); 
+                                googletag.pubads().enableSingleRequest(); 
+                                googletag.enableServices(); 
+                                }); 
+                                </script defer>
+                                <script> 
+                                window.googletag = window.googletag || {cmd: []}; 
+                                googletag.cmd.push(function() { 
+                                googletag.defineSlot('/77034085/article/mid_300x250(left)', [300, 250], 'div-gpt-ad-1640754803943-0').addService(googletag.pubads()); 
+                                googletag.pubads().enableSingleRequest(); 
+                                googletag.enableServices(); 
+                                }); 
+                                </script>
+                                <script defer> 
+                                window.googletag = window.googletag || {cmd: []}; 
+                                googletag.cmd.push(function() { 
+                                googletag.defineSlot('/77034085/article/mid_300x250(right)', [300, 250], 'div-gpt-ad-1640754782337-0').addService(googletag.pubads()); 
+                                googletag.pubads().enableSingleRequest(); 
+                                googletag.enableServices(); 
+                                }); 
+                                </script>
+                                <script defer> 
+                                window.googletag = window.googletag || {cmd: []}; 
+                                googletag.cmd.push(function() { 
+                                googletag.defineSlot('/77034085/article/top_300x600', [300, 600], 'div-gpt-ad-1640754721133-0').addService(googletag.pubads()); 
+                                googletag.pubads().enableSingleRequest(); 
+                                googletag.enableServices(); 
+                                }); 
+                                </script>
+                                <script defer>
+                                window.googletag = window.googletag || {cmd: []};
+                                googletag.cmd.push(function() {
+                                googletag.defineSlot('/77034085/article/670x90', [670, 90], 'div-gpt-ad-1641349806146-0').addService(googletag.pubads());
+                                googletag.pubads().enableSingleRequest();
+                                googletag.pubads().collapseEmptyDivs();
+                                googletag.enableServices();
+                                });
+                                </script>
+                            
+<script type="text/javascript">
+                            _TRK_PI     = "PDV";
+                            _TRK_PNC    = "2023042801345397733";
+                            _TRK_PNC_NM = "[전문] 윤석열 대통령 미 의회 연설문 한글&middot;영문 버전";
+                            _TRK_PNG    = "11002003000000000000";
+                            _TRK_PNG_NM = "대통령실·세종";
+                        </script>
+
+    <link type="text/css" rel="stylesheet" href="/assets/css/reset.css"><link type="text/css" rel="stylesheet" href="/assets/css/jquery-ui.css"><link type="text/css" rel="stylesheet" href="/assets/css/slick.css"><link type="text/css" rel="stylesheet" href="/assets/css/slick-theme.css"><link type="text/css" rel="stylesheet" href="/assets/css/skin.css"><link type="text/css" rel="stylesheet" href="/assets/css/common.css?v=1.0.3"><link type="text/css" rel="stylesheet" href="/assets/css/style.css?v=1.0.3">
+    <link type="text/css" rel="stylesheet" href="/assets/css/bulma.css?v=1.0.3">
+
+
+    <link rel="stylesheet" type="text/css" href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
+    <link type="text/css" rel="stylesheet" href="/bbs/_layout/ami/css/style.css">
+    <link type="text/css" rel="stylesheet" href="/bbs/board/ami/css/style.css">
+
+    <style>
+        /* 캡챠 자동등록(입력)방지 기본 -pc 시작 */
+        #captcha {display:inline-block;position:relative}
+        #captcha legend {position:absolute;margin:0;padding:0;font-size:0;line-height:0;text-indent:-9999em;overflow:hidden}
+        #captcha #captcha_img {height:80px;border:1px solid #898989;vertical-align:top;padding:0;margin:0}
+        #captcha #captcha_mp3 {margin:0;padding:0;width:40px;height:40px;border:0;background:transparent;vertical-align:middle;overflow:hidden;cursor:pointer;background:url('/assets/nwcms/sample/site/images/common/captcha2.png') no-repeat;text-indent:-999px;border-radius:3px}
+        #captcha #captcha_reload {margin:0;padding:0;width:40px;height:40px;border:0;background:transparent;vertical-align:middle;overflow:hidden;cursor:pointer;background:url('/assets/nwcms/sample/site/images/common/captcha2.png') no-repeat 0 -40px;text-indent:-999px;border-radius:3px}
+        #captcha #captcha_key {margin:0 0 0 3px;padding:0 5px;width:90px;height:40px;border:1px solid #ccc;background:#fff;font-size:1.333em;font-weight:bold;text-align:center;border-radius:3px;vertical-align:top}
+        #captcha #captcha_info {display:block;margin:5px 0 0;font-size:0.95em;letter-spacing:-0.1em}
+        /* 캡챠 자동등록(입력)방지 기본 -pc 끝 */
+    </style>
+
+    <script src="/assets/js/jquery-1.12.4.js"></script><script src="/assets/js/jquery-ui.js"></script><script src="/assets/js/slick.js"></script><script src="/assets/js/skin.js"></script><script src="/assets/js/VerLim.min.js"></script><script src="/assets/js/common.js?v=1.0.2"></script>
+    <script type="text/javascript" src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    
+
+       
+
+    <!-- bing.com Clarity 추적 코드 : PC -->
+    <script type="text/javascript">
+        (function(c,l,a,r,i,t,y){
+            c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+            t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+            y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+        })(window, document, "clarity", "script", "g67pqv64r0");
+    </script>
+</head>
+<body>
+<div id="wrap">
+    
+
+    <style>/* 헤더 시작 */
+#header {background-color:#FFF}
+#header .header_mid {position:relative; height:130px; margin:0 auto; width:1180px}
+#header .header_mid:after {content:"";clear:both;display:block}
+#header .header_mid > .logo {position:absolute;top:50%;left:50%; transform:translate(-50%, -50%); max-width:226px; max-height:65px;}
+#header .header_mid > .logo img {display:block; width:100%; height:100%;}
+#header .header_mid .header_left {float:left;}
+#header .header_mid .header_left:after {content:"";clear:both;display:block}
+#header .header_mid .header_left .logo {width:100px; float:left; margin:89px 20px 0 0;}
+#header .header_mid .header_left .logo img {width:100%;}
+#header .header_mid .header_left .date {float:left; font-size:13px; color:#999; font-weight:300; margin:100px 17px 0 0;}
+#header .header_mid .header_left .weather {float:left; font-size:13px; color:#333; font-weight:500; margin:100px 0 0 0;}
+#header .header_mid .header_right {float:right;}
+#header .header_mid .header_right .util ul:after {content:''; clear:both; display:block;}
+#header .header_mid .header_right .util ul li {float:left; margin:100px 10px 0 0;}
+#header .header_mid .header_right .util ul li a {font-size:13px; color:#999; }
+#header .header_mid .header_right .util ul li.member a {color:#333;}
+#header .header_mid .head_section_title {position:absolute;top:50%;left:50%; transform:translate(-50%, -50%);  text-align:center; color:#666; font-weight:600; font-size:39px;}
+#header .header_bottom > .inner {position:relative;margin:0 auto;width:1180px; border-top:1px solid #ddd; border-bottom:2px solid #333;}
+#header .header_bottom > .inner:after {content:"";clear:both;display:block}
+#header .header_bottom > .inner .total_menu_btn {float:left; padding:13px 16px 13px 0; height:46px; cursor:pointer;}
+#header .header_bottom > .inner .total_menu_btn .bar1, 
+#header .header_bottom > .inner .total_menu_btn .bar2, 
+#header .header_bottom > .inner .total_menu_btn .bar3 {margin:4px 0;width:15px;height:2px;background-color:#333;transition:0.4s}
+#header .header_bottom > .inner .change .bar1 {-webkit-transform:rotate(-46deg) translate(-4px, 5px);transform:rotate(-46deg) translate(-4px, 5px)}
+#header .header_bottom > .inner .change .bar2 {opacity:0}
+#header .header_bottom > .inner .change .bar3 {-webkit-transform:rotate(45deg) translate(-4px, -4px);transform:rotate(45deg) translate(-4px, -4px)}
+
+#header .header_bottom > .inner .search {float:left; height:46px; width:195px;}
+#header .header_bottom > .inner .search input[type="text"] {float:left;padding:0 5px;display:block;width:155px; margin-right:6px; height:46px;color:#000;font-weight:300;letter-spacing:0em;border:0;background-color:transparent}
+#header .header_bottom > .inner .search input[type="text"]:focus {outline:none}
+#header .header_bottom > .inner .search input[type="text"]::-webkit-input-placeholder {color:#d1d1d1;font-weight:100;}
+#header .header_bottom > .inner .search input[type="text"]::-ms-input-placeholder {color:#d1d1d1}
+#header .header_bottom > .inner .search input[type="text"]::placeholder {color:#d1d1d1}
+#header .header_bottom > .inner .search .search_btn {float:left;display:block;width:30px;height:46px;line-height:46px;text-align:center;cursor:pointer}
+#header .header_bottom > .inner .search .search_btn img {margin-top:16px}
+#header .header_bottom > .inner .search.on {background:#efefef;}
+#header .header_bottom > .inner .search.on form {display:block;}
+#header .header_bottom > .inner .search form {display:none;}
+#header .header_bottom > .inner .search .search_open {display:inline-block; padding-top:16px; cursor:pointer;}
+#header .header_bottom > .inner .search.on .search_open {display:none;}
+
+#header .header_bottom > .inner .gnb {position:relative;float:left; width: 740px; height:46px; overflow: hidden; text-align: center;}
+#header .header_bottom > .inner .gnb:after {content:"";clear:both;display:block}
+#header .header_bottom > .inner .gnb > li {display: inline-block; padding:0 12px;}
+#header .header_bottom > .inner .gnb > li:first-child{margin-left:0;}
+#header .header_bottom > .inner .gnb > li > a {display:block;line-height:46px;color:#111;font-size:17px;letter-spacing:-0.05em}
+#header .header_bottom > .inner .gnb > li .depth2_wrap {position:absolute;left:15px;bottom:-50px;display:none}
+#header .header_bottom > .inner .gnb > li .depth2_wrap .inner {min-width:800px;}
+#header .header_bottom > .inner .gnb > li .depth2_wrap .title {display:none;}
+#header .header_bottom > .inner .gnb > li .depth2_wrap .menu ul:after {content:"";clear:both;display:block}
+#header .header_bottom > .inner .gnb > li .depth2_wrap .menu ul li {float:left;padding:0 15px}
+#header .header_bottom > .inner .gnb > li .depth2_wrap .menu ul li:first-child {padding:0 15px 0 0;}
+#header .header_bottom > .inner .gnb > li .depth2_wrap .menu ul li a {display:block;line-height:50px;font-size:17px;letter-spacing:-0.05em; color:#000;}
+#header .header_bottom > .inner .gnb > li .depth2_wrap .menu ul li a:hover {color:#000; font-weight:500;}
+
+.gnb_space {height:40px; display:none;}
+.gnb_space.on {display:block;}
+
+#header .header_bottom > .inner .sns_list {float:right;}
+#header .header_bottom > .inner .sns_list ul li {display:inline-block; padding-top:12px; margin-left:4px;}
+
+#header .header_bottom .total_menu_wrap {display:none;position:absolute;padding:25px 0;background:#FFF;width:100%;box-shadow:1px 3px 15px 1px rgba(0,0,0,0.1);z-index:90}
+#header .header_bottom .total_menu_wrap > .inner {margin:0 auto;padding:0 10px;padding-left:45px;width:1180px}
+#header .header_bottom .total_menu_wrap > .inner:after {content:"";clear:both;display:block}
+#header .header_bottom .total_menu_wrap > .inner > ul:after {content:"";clear:both;display:block}
+#header .header_bottom .total_menu_wrap > .inner > ul > li:after {content:"";clear:both;display:block}
+#header .header_bottom .total_menu_wrap > .inner > ul > li > ul:after {content:"";clear:both;display:block}
+#header .header_bottom .total_menu_wrap > .inner > ul > li > p {float:left;width:130px}
+#header .header_bottom .total_menu_wrap > .inner > ul > li > p > a {display:block;font-size:17px;line-height:34px; color:#000;}
+#header .header_bottom .total_menu_wrap > .inner > ul > li > ul > li {float:left;margin-right:20px}
+#header .header_bottom .total_menu_wrap > .inner > ul > li > ul > li a {display:block;font-size:17px;line-height:34px;color:#5B5B5B}
+#header.active {position:fixed; top:0; left:0; width:100%; z-index:100; border-bottom:0;}
+#header.active .header_bottom {display:block;}
+#header.active .header_mid {height:70px;}
+#header.active .header_mid .header_left .date {margin:30px 20px 0 0;}
+#header.active .header_mid .header_left .weather {margin:30px 0 0 0;}
+#header.active .header_mid .header_right .util{padding-top:12px;}
+#header.active .header_mid .header_right .util ul li {margin:16px 10px 0 0;}
+#header.active .header_mid .head_section_title {font-size:23px; display:none;}
+#header.active .header_mid .head_title {font-size:25px;  display:block; color:#000;}
+#header .header_mid .head_title  {display:none;}
+#header .header_mid .head_title {position:absolute;top:50%;left:50%; transform:translate(-50%, -50%);  text-align:center; color:#666; font-weight:600; font-size:39px; text-overflow: ellipsis; white-space: nowrap; overflow: hidden; line-height:30px; width:650px;}
+#header.active .header_mid > .logo img {width:130px; display:block;}
+#header.active .header_mid > .logo {display:none;}</style><!-- 비즈스프링 시작-->
+<script type="text/x-javascript">var _TRK_LID="8208"; (function(b,s){var f=b.getElementsByTagName(s)
+[0],j=b.createElement(s);j.async=true;j.src='//fs.bizspring.net/insight/Insight_Tracking_ScriptV1.js';f.parentNode.insertBefore(j,f);})
+(document,'script');
+</script>
+<!-- 비즈스프링 끝-->
+<script type="text/javascript" src="/assets/js/VerLim.min.js"></script>
+<script type="text/javascript" src="/assets/js/ResizeSensor.js"></script>
+<script type="text/javascript" src="/assets/js/theia-sticky-sidebar.js"></script>
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.section,  .aside2').theiaStickySidebar({
+            containerSelector: '.section',
+        });
+
+        $().VerLim({
+            color: "#dd2266",
+            autoHide: "off",
+            autoHideTime: "2",
+            theme: "on",
+            position: "top",
+            thickness: "2px",
+            shadow: "off"
+        });
+
+        var view_head_height = $(".article_head").offset().top; //view헤더 고정용
+        $(window).scroll(function () {
+            if ($(this).scrollTop() >= view_head_height) {
+                $("#header").addClass("active");
+                $("#header .header_mid > .logo img").attr("src", "/assets/images/common/symbol_g.png");
+                $("#header #gnb_twodepth").css("display", "none");
+                $("#gnb_wrap").css("display", "none");
+                $("#scroller").css("display", "block");
+                $("#header .head_title").html($(".article_head .title").text()).css("display", "block");
+                $("#header .header_mid > .logo").css("display", "none");
+                $("#header .header_mid .header_left > .date").css("display", "none");
+                $("#header .header_mid > .head_section_title").css("display", "block");
+$(".wing_banner .wb_left").css("top","130px");
+            } else {
+                $("#header").removeClass("active");
+                $("#header .header_mid > .logo img").attr("src", "/assets/images/common/logo.png");
+                $("#header #gnb_wrap #gnb > ul > li > ul").css("display", "none");
+                $("#gnb_wrap").css("display", "block");
+                $("#scroller").css("display", "none");
+                $("#header .head_title").css("display", "none");
+                $("#header .header_mid > .logo").css("display", "block");
+                $("#header .header_mid .header_left > .date").css("display", "block");
+                $("#header .header_mid > .head_section_title").css("display", "none");
+$(".wing_banner .wb_left").css("top","0");
+            }
+
+            var scrollTo = $(window).scrollTop();
+            var docHeight = $(document).height();
+            var windowHeight = $(window).height();
+            var scrollPercent = (scrollTo / (docHeight - windowHeight)) * 100;
+            $(".scroller").css("width", scrollPercent + "%");
+        });
+    });
+</script>
+<div id="header" class="header_article_view">
+    <!-- 헤더 미들 시작 -->
+    <div class="header_mid">
+        <div class="header_left">
+            <div class="date">2023-05-11 (목)</div>
+            <div class="weather"><!--서울 22.9 ℃ <img src="/assets/images/common/icon_weather1.png" alt="날씨아이콘">--></div>
+        </div>
+        <h1 class="logo">
+            <a href="/"><img src="/assets/images/common/logo.png" alt="매일신문"></a>
+        </h1>
+        <h2 class="head_section_title"></h2>
+        <h3 class="head_title"> </h3>
+        <div class="header_right">
+            <div class="util">
+                <ul>
+                    <li><a href="/pdf_list">지면보기</a></li>
+                    <li><a href="javascript:window.open('/pages/comm/report.php', '기사제보', 'top=100, left=200, width=800, height=800, status=no, menubar=no, toolbar=no, resizable=no');">기사제보</a></li>
+                                            <li class="member"><a href="/login">로그인</a></li>
+                        <li class="member"><a href="/member/join_select">회원가입</a></li>
+                                    </ul>
+            </div>
+        </div>
+    </div>
+    <!-- 헤더 미들 끝 -->
+    <!-- 헤더 바텀 시작 -->
+    <div class="header_bottom">
+        <div class="inner">
+            <div class="total_menu_btn">
+                <div class="bar1"></div>
+                <div class="bar2"></div>
+                <div class="bar3"></div>
+            </div>
+            <div class="search">
+                <span class="search_open"><img src="/assets/images/common/h_icon_search.png" alt="검색"></span>
+                <form name="searchForm" method="post" action="https://search.imaeil.com/RSA/front_new/Search.jsp">
+                    <input type="text" id="header_search" name="qt" value="">
+                    <span class="search_btn"><img src="/assets/images/common/h_icon_search.png" alt="검색"></span>
+                </form>
+            </div>
+            <!-- gnb 시작 -->
+<ul class="gnb">
+    <li><a href="/latest_article" target="_self">최신기사</a></li>
+<li><a href="/opinion" target="_self">오피니언</a></li>
+<li><a href="/politics" target="_self">정치</a></li>
+<li><a href="/economy" target="_self">경제</a></li>
+<li><a href="/society" target="_self">사회</a></li>
+<li><a href="/nations" target="_self">국제</a></li>
+<li><a href="/culture" target="_self">문화</a></li>
+<li><a href="/sport" target="_self">스포츠</a></li>
+<li><a href="/entertainment" target="_self">연예</a></li>
+<li><a href="/life" target="_self">라이프</a></li>
+<li><a href="/mstory" target="_self">포토·영상</a></li>
+
+</ul>
+<!-- gnb 끝 -->
+              <div class="sns_list">
+                <ul>
+                    <li><a href="https://post.naver.com/imaeil-com" target="_blank"><img src="/assets/images/common/icon_head_nv.png" alt="매일신문 네이버 포스트" title="매일신문 네이버 포스트"></a></li>
+                    <li><a href="https://www.youtube.com/user/MaeilShinmun" target="_blank"><img src="/assets/images/common/icon_head_yt1.png" alt="TV 매일신문" title="TV 매일신문"></a></li>
+                    <li><a href="https://www.instagram.com/newsmaeil/" target="_blank"><img src="/assets/images/common/icon_head_inst.png" alt="매일신문 공식 인스타그램" title="매일신문 공식 인스타그램"></a></li>
+                    <li><a href="https://www.facebook.com/maeil.shinmun/" target="_blank"><img src="/assets/images/common/icon_head_fb.png" alt="매일신문 페이스북" title="매일신문 페이스북"></a></li>
+                </ul>
+            </div>
+
+        </div>
+        <div class="total_menu_wrap">
+            <div class="inner">
+                <ul>
+<li class="panel">
+    <p class="title"><a href="/latest_article" target="_self">최신기사</a></p>
+</li>
+<li class="panel">
+    <p class="title"><a href="/opinion" target="_self">오피니언</a></p>
+    <ul>
+        <li><a href="/editorial" target="_self">사설</a></li>
+        <li><a href="/within" target="_self">사내칼럼</a></li>
+        <li><a href="/outside" target="_self">사외칼럼</a></li>
+        <li><a href="/daily" target="_self">매일희평</a></li>
+    </ul>
+</li>
+<li class="panel">
+    <p class="title"><a href="/politics" target="_self">정치</a></p>
+    <ul>
+        <li><a href="/politics_general" target="_self">정치일반</a></li>
+        <li><a href="/area" target="_self">지역정가</a></li>
+        <li><a href="/sejong" target="_self">대통령실·세종</a></li>
+        <li><a href="/National_Assembly" target="_self">국회·정당</a></li>
+        <li><a href="/national_defense" target="_self">북한·국방</a></li>
+        <li><a href="/election" target="_self">선거</a></li>
+    </ul>
+</li>
+<li class="panel">
+    <p class="title"><a href="/economy" target="_self">경제</a></p>
+    <ul>
+        <li><a href="/economy_general" target="_self">경제일반</a></li>
+        <li><a href="/property" target="_self">부동산</a></li>
+        <li><a href="/finance" target="_self">금융·증권·보험</a></li>
+        <li><a href="/foundation" target="_self">기업·창업</a></li>
+        <li><a href="/apprehension" target="_self">구인·구직</a></li>
+        <li><a href="/vehicle" target="_self">IT·자동차</a></li>
+    </ul>
+</li>
+<li class="panel">
+    <p class="title"><a href="/society" target="_self">사회</a></p>
+    <ul>
+        <li><a href="/society_general" target="_self">사회일반</a></li>
+        <li><a href="/incident" target="_self">사건사고</a></li>
+        <li><a href="/court" target="_self">법원·검찰</a></li>
+        <li><a href="/education" target="_self">교육</a></li>
+        <li><a href="/the_report" target="_self">인사·화촉·모임·부음</a></li>
+        <li><a href="/neighbor" target="_self">이웃사랑</a></li>
+        <li><a href="/hot_news" target="_self">핫뉴스</a></li>
+    </ul>
+</li>
+<li class="panel">
+    <p class="title"><a href="/nations" target="_self">국제</a></p>
+    <ul>
+        <li><a href="/nations_general" target="_self">국제일반</a></li>
+        <li><a href="/america" target="_self">미국·중국·일본</a></li>
+        <li><a href="/topic" target="_self">해외토픽</a></li>
+    </ul>
+</li>
+<li class="panel">
+    <p class="title"><a href="/culture" target="_self">문화</a></p>
+    <ul>
+        <li><a href="/culture_general" target="_self">문화일반</a></li>
+        <li><a href="/music" target="_self">음악·공연</a></li>
+        <li><a href="/art" target="_self">미술·전시</a></li>
+        <li><a href="/literature" target="_self">문학·책</a></li>
+        <li><a href="/religion" target="_self">종교</a></li>
+    </ul>
+</li>
+<li class="panel">
+    <p class="title"><a href="/sport" target="_self">스포츠</a></p>
+    <ul>
+        <li><a href="/sport_general" target="_self">스포츠일반</a></li>
+        <li><a href="/baseball" target="_self">야구</a></li>
+        <li><a href="/football" target="_self">축구</a></li>
+        <li><a href="/basketball" target="_self">농구</a></li>
+        <li><a href="/golf" target="_self">골프</a></li>
+        <li><a href="/community_sport" target="_self">지역스포츠</a></li>
+    </ul>
+</li>
+<li class="panel">
+    <p class="title"><a href="/entertainment" target="_self">연예</a></p>
+    <ul>
+        <li><a href="/entertainment_general" target="_self">연예일반</a></li>
+        <li><a href="/movie" target="_self">영화</a></li>
+        <li><a href="/broadcasting" target="_self">방송·연예</a></li>
+    </ul>
+</li>
+<li class="panel">
+    <p class="title"><a href="/life" target="_self">라이프</a></p>
+    <ul>
+        <li><a href="/life_general" target="_self">라이프일반</a></li>
+        <li><a href="/festival" target="_self">여행·축제</a></li>
+        <li><a href="/taste" target="_self">맛</a></li>
+        <li><a href="/health" target="_self">건강</a></li>
+        <li><a href="/reader" target="_self">독자</a></li>
+        <li><a href="/fortune" target="_self">운세</a></li>
+    </ul>
+</li>
+<li class="panel">
+    <p class="title"><a href="/mstory" target="_self">포토·영상</a></p>
+    <ul>
+        <li><a href="/picture" target="_self">영상</a></li>
+        <li><a href="/photo" target="_self">포토</a></li>
+        <li><a href="/graphics" target="_self">그래픽</a></li>
+        <li><a href="/card_news" target="_self">카드뉴스</a></li>
+    </ul>
+</li>
+</ul>
+            </div>
+        </div>
+    </div>
+    <!-- 헤더 바텀 끝 -->
+</div>
+    <div id="container">
+                <style>
+    .art_mid_ad {width:auto !important;}
+</style>
+<script src="/assets/js/ami_analytics.js"></script>
+<script>
+    $(function () {
+        var sec_h = $(".section").innerHeight();
+        var aside_h = $(".aside").innerHeight();
+        sec_h = sec_h + 400;
+        if ($(".wb_left").innerHeight() < sec_h) {
+            $(".wb_left").css("height", sec_h + "px");
+        }
+
+
+        var wcms_category_name = $("#wcms_category_name").val();
+        $(".header_mid > .head_section_title").text(wcms_category_name);
+        //var idx = $("#articlebody").contents().length;
+        var idx = $("#articlebody p").length;
+        console.log(idx);
+        if (idx > 0) {
+            //$("#articlebody").contents().eq(5).after($("#art_mid_ad1"));
+            $("#articlebody p").eq(4).after($("#art_mid_ad1"));
+            $("#art_mid_ad1").show();
+
+            //$("#articlebody").contents().eq(11).after($("#art_mid_ad2"));
+            $("#articlebody p").eq(9).after($("#art_mid_ad2"));
+            $("#art_mid_ad2").show();
+        }
+        if (idx < 11) {
+            $("#articlebody").contents().last().after($("#art_mid_ad2"));
+            $("#art_mid_ad2").hide();
+        }
+
+        if (idx < 4) {
+            $("#art_mid_ad1").hide();
+        }
+        //기사 광고 추가 끝
+
+        // 기사 댓글
+        var news_code = $("#ca_code").val();
+        var param = {};
+        param.class = "/api/livereComment";
+        param.code  = news_code;
+
+        /*$.ajax({
+            url: window.location.protocol + '//' + window.location.host + '/api.php',
+            type: "POST",
+            dataType: "JSON",
+            data: param,
+            success: function (result) {
+                $(".comment_cnt span").text(result);
+            }
+        });
+        $("li.comment_cnt").click(function (){
+            var position = $("#lv-container").offset();
+            $("html, body").animate({scrollTop: (position.top - 300)}, 300);
+        });*/
+    });
+
+    function newsScrap() {
+        var news_code = $("#ca_code").val();
+        var param = {};
+        param.class = "/join/newsScrapProcess";
+        param.news_code = news_code;
+
+        $.ajax({
+            url: window.location.protocol + '//' + window.location.host + '/api.php',
+            type: "POST",
+            dataType: "JSON",
+            data: param,
+            success: function (result) {
+                if (result.status == "success") {
+                    alert("스크랩이 완료 되었습니다.");
+                } else if (result.status == "login_fail") {
+                    alert("로그인 후 이용 가능합니다.");
+                } else if (result.status == "already") {
+                    alert("이미 스크랩 하였습니다.");
+                } else {
+                    alert("잠시 후 다시 시도하여 주세요.");
+                }
+            }
+        });
+    }
+</script>
+<!-- 본문내상단 광고 시작 -->
+<div class="art_mid_ad" id="art_mid_ad1" style="display:none;">
+    <div style='float:left; min-width: 300px; min-height: 250px;'>
+        <ins class="adsbyaiinad" data-aiinad-inv="22773503944"></ins>
+    </div>
+    <div style='float:right; min-width: 300px; min-height: 250px;'>
+        <ins class="adsbyaiinad" data-aiinad-inv="22773504094"></ins>
+    </div>
+    <div style="clear:both;"></div>
+    <div class="h20"></div>
+</div>
+<!-- 본문내상단 광고 끝 -->
+<!-- 본문내중단 광고 시작 -->
+<div class="art_mid_ad" id="art_mid_ad2" style="display:none; text-align:center;">
+    <ins class="adsbyaiinad" data-aiinad-inv="22774039935"></ins>
+    <div class="h20"></div>
+</div>
+<!-- 본문내중단 광고 끝 -->
+<div class="inner">
+    <!-- 윙배너 시작 -->
+    <div class="wing_banner">
+        <div class="wb_left">
+            <div style="position:relative; padding-left:140px;">
+                <div style="position:fixed;">
+                    <!-- 좌측날개 광고 -->
+                    <ins class="adsbyaiinad" data-aiinad-inv="22773691946"></ins>
+                    <!-- 좌측날개 광고 끝 -->
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- 윙배너 끝 -->
+    <!-- 페이지상단 광고 -->
+    <div class="h15"></div>
+    <ins class="adsbyaiinad" data-aiinad-inv="22774039800"></ins>
+    <div class="h20"></div>
+    <!-- 페이지상단 광고 끝 -->
+    <div class="article_head">
+        <p class="title">
+            [전문] 윤석열 대통령 미 의회 연설문 한글·영문 버전
+        </p>
+
+        <div class="util_box">
+            <div class="footer_byline">
+                <span class="name">황희진 기자 hhj@imaeil.com</span> <span class="email"></span>
+            </div>
+            <div class="byline">
+                <span class="writer">매일신문</span> <span class="email"></span>
+                <span class="date">입력 2023-04-28 01:34:59 수정 2023-04-28 01:46:46</span>
+            </div>
+            <div class="tools">
+                <ul class="btns">
+                    <!--<li class="comment_cnt"><span>0</span></li>-->
+                    <li class="print"></li>
+                    <li class="share"></li>
+                    <li class="scrap" onclick="newsScrap();"></li>
+                    <li class="font_down" onclick="fontsize('down')">가</li>
+                    <li class="font_up" onclick="fontsize('up')">가</li>
+                </ul>
+            </div>
+            <div class="share_tools">
+                <ul class="lists">
+                    <li><a href="javascript:facebook_share();"><img src="/assets/images/common/article_view_icon_fb.png" alt="페이스북에 공유하기"><span>페이스북</span></a></li>
+                    <li><a href="javascript:twitter_share();"><img src="/assets/images/common/article_view_icon_tw.png" alt="트위터에 공유하기"><span>트위터</span></a></li>
+                    <li><a href="javascript:kakao_share();"><img src="/assets/images/common/article_view_icon_ks.png" alt="카카오스토리에 공유하기"><span>카카오스토리</span></a></li>
+                    <li><a href="javascript:band_share();"><img src="/assets/images/common/article_view_icon_bd.png" alt="밴드에 공유하기"><span>밴드</span></a></li>
+                    <li><a href="javascript:naver_share();"><img src="/assets/images/common/article_view_icon_nb.png" alt="네이버블로그에 공유하기"><span>네이버블로그</span></a></li>
+                    <li><a href="javascript:;" id="kakao-link-btn"><img src="/assets/images/common/article_view_icon_kko.png" alt="카카오톡에 공유하기"><span>카카오톡</span></a></li>
+                    <li><a href="javascript:line_share();"><img src="/assets/images/common/article_view_icon_ln.png" alt="라인에 공유하기"><span>라인</span></a></li>
+                </ul>
+                <div class="url_copy">
+                    <input type="text" id="ami_url_copy" readonly="">
+                    <span onclick="amiCopyUrlToClipboard()">URL복사</span>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- 섹션 시작 -->
+    <div class="section">
+        <!-- 기사본문 시작 -->
+        <div class="article_view v2">
+            <div class="article_content">
+                <!-- <figure>
+                    <img src="{wcms_img}" alt="{wmcs_alt]">
+                </figure> -->
+                <p class="subtitle">
+                    
+                </p>
+                <div id="articlebody" itemprop="articleBody">
+                    <p>
+                        <figure class="img_center">
+                    <img src="https://news.imaeil.com/photos/2023/04/28/2023042801340361906_l.jpg" alt="미국을 국빈 방문 중인 윤석열 대통령이 27일(현지시간) 워싱턴DC 국회의사당에서 열린 미 상·하원 합동회의에서 연설 중 케빈 매카시 하원의장(오른쪽 뒤), 미국 부통령인 카멀라 해리스 상원의장이 박수를 치고 있다. 연합뉴스" />
+                    <figcaption>
+                        미국을 국빈 방문 중인 윤석열 대통령이 27일(현지시간) 워싱턴DC 국회의사당에서 열린 미 상·하원 합동회의에서 연설 중 케빈 매카시 하원의장(오른쪽 뒤), 미국 부통령인 카멀라 해리스 상원의장이 박수를 치고 있다. 연합뉴스
+                    </figcaption>
+                </figure>
+                <figure class="img_center">
+                    <img src="https://news.imaeil.com/photos/2023/04/28/2023042801340466205_l.jpg" alt="미국을 국빈 방문 중인 윤석열 대통령이 27일(현지시간) 워싱턴DC 국회의사당에서 열린 미 상·하원 합동회의에서 연설에 앞서 인사하고 있다. 연합뉴스" />
+                    <figcaption>
+                        미국을 국빈 방문 중인 윤석열 대통령이 27일(현지시간) 워싱턴DC 국회의사당에서 열린 미 상·하원 합동회의에서 연설에 앞서 인사하고 있다. 연합뉴스
+                    </figcaption>
+                </figure>
+                <figure class="img_center">
+                    <img src="https://news.imaeil.com/photos/2023/04/28/2023042801340563912_l.jpg" alt="27일(현지시간) 워싱턴DC 국회의사당에서 열린 미국을 국빈 방문 중인 윤석열 대통령의 미 상·하원 합동 연설에서 참석자들이 기립 박수를 보내고 있다. 연합뉴스" />
+                    <figcaption>
+                        27일(현지시간) 워싱턴DC 국회의사당에서 열린 미국을 국빈 방문 중인 윤석열 대통령의 미 상·하원 합동 연설에서 참석자들이 기립 박수를 보내고 있다. 연합뉴스
+                    </figcaption>
+                </figure><p>윤석열 대통령이 27일 오전 11시(현지시각 기준) 미국 워싱턴 D.C. 국회의사당에서 '자유의 동맹, 행동하는 동맹'(Aliiance of Freedom, Alliance in Action)이라는 주제의 미 상·하원 합동회의 영어 연설을 했다.</p><p>이 연설문 전문 한글 버전과 영문 버전을 공개한다.</p><p><strong>※연설문 전문 한글 버전</strong></p><p>존경하는 하원의장님, 부통령님, 상·하원 의원 여러분과 내외 귀빈 여러분, 미국 시민 여러분. "자유 속에 잉태된 나라, 인간은 모두 평등하게 창조되었다는 신념에 의해 세워진 나라." 저는 지금 자유에 대한 확신, 동맹에 대한 신뢰, 새로운 미래를 열고자 하는 결의를 갖고 미국 국민 앞에 서 있습니다.</p><p>미 의회는 234년 동안 자유와 민주주의의 상징이었습니다. 미 헌법 정신을 구현하고 있는 바로 이곳에서 의원 여러분과 미국 국민 앞에 연설하게 되어 매우 기쁘게 생각합니다. 특히 '한미동맹 70주년 결의'를 채택하여 이번 저의 방문의 의미를 더욱 빛내주신 민주당과 공화당 양당 의원 여러분께도 깊은 감사의 말씀을 드립니다. 특히 '한미동맹 70주년 결의'를 채택하여 이번 저의 방문의 의미를 더욱 빛내주신 민주당과 공화당 양당 의원 여러분께도 깊은 감사의 말씀을 드립니다.</p><p>여러분께서 어떤 진영에 계시든 간에, 저는 여러분이 대한민국 편에 서 계신다는 사실을 잘 알고 있습니다. 지난 세기 동안 미국은 자유를 위협하는 도전에 맞서 이를 수호하는 데 앞장섰습니다. 제국주의 세력 간의 식민지 쟁탈전이 격화되면서 인류는 두 차례의 참혹한 대전을 겪었습니다. 미국은 자유를 지키기 위한 정의로운 개입을 택했습니다. 이로 인해 미국이 치른 희생은 적지 않았습니다. 맥아더 장군과 니미츠 제독이 활약한 태평양 전쟁에서만 10만 명이 넘는 미국 국민이 전사했습니다.</p><p>그러나 이들의 희생은 헛되지 않았습니다. 전후 세계 자유무역 질서를 구축한 미국의 글로벌 리더십은 세계 곳곳에서 평화와 번영을 일구었습니다. 하지만 자유시장을 허용하지 않는 공산 전체주의 세력이 참여하지 않은 자유시장의 번영이었습니다.</p><p>1950년 한반도는 자유주의와 공산 전체주의가 충돌하는 최전선이었습니다. 소련의 사주를 받은 북한의 기습침략으로 한반도와 아시아의 평화가 위기에 빠졌습니다. 한반도에서 자유민주주의가 사라질 뻔한 절체절명의 순간, 미국은 이를 외면하지 않았습니다. 한국과 미국은 용감히 싸웠고 치열한 전투가 이어졌습니다. 전쟁의 포화 속에서 영웅들의 이야기가 탄생했습니다.</p><p>맥아더 장군은 허를 찌르는 인천상륙작전으로 불리한 전황을 일거에 뒤집었습니다. 인천상륙작전은 세계 전사에 기록할만한 명장의 결정이었습니다. 미 해병대 1사단은 장진호 전투에서 중공군 12만 명의 인해 전술을 돌파하는 기적 같은 성과를 거두었습니다. '전혀 알지 못하는 나라의 한 번도 만난 적이 없는 국민'을 지키기 위해 미군이 치른 희생은 매우 컸습니다. 장진호 전투에서만 미군 4천500명이 전사했고, 6·25 전쟁에서 미군 약 3만7천명이 전사했습니다. 원주 324 고지전에 참전해 오른쪽 팔과 다리를 잃은 고(故) 윌리엄 웨버 대령은 한국전 참전용사의 숭고한 희생을 기리는 활동에 여생을 바쳤습니다.</p><p>오늘 이 자리에 웨버 대령의 손녀 데인 웨버씨를 모셨습니다. 어디 계신 지 일어나 주시겠습니까? 대한민국 국민을 대표해 깊은 감사와 무한한 경의를 표합니다.</p><p>여기 계신 의원 여러분들의 가족과 친구 중에도 한국전 참전용사 영웅들이 계실 것입니다. 한국전쟁 참전 용사로 바로 이곳 의회에서 자유와 민주주의를 위해 헌신하신 고(故) 존 코니어스 의원님, 故 샘 존슨 의원님, 故 하워드 코블 의원님 그리고 지금도 한미동맹의 열렬한 후원자이신 찰스 랭글 전 의원님. 대한민국은 우리와 함께 자유를 지켜낸 미국의 위대한 영웅들을 영원히 기억하겠습니다.</p><p>오늘 이 자리를 빌려 한국전쟁 참전용사들과 자식과 남편, 그리고 형제를 태평양 너머 한 번도 가본 적 없는 나라의 자유를 지키기 위해 기꺼이 보내준 미국의 어머니들, 그리고 한국전쟁을 자랑스러운 유산으로 여기고 참전 용사들을 명예롭게 예우하는 미국 정부와 국민에게 깊은 경의를 표합니다.</p><p>3년간의 치열했던 전투가 끝나고 한미 양국은 1953년 한미상호방위조약을 체결하면서 새로운 동맹의 시대를 열었습니다. 전쟁의 참혹한 상처와 폐허를 극복하고 번영하는 오늘의 대한민국이 있기까지 미국은 우리와 줄곧 함께했습니다. 올해로 70주년을 맞이한 한미동맹을 축하해야 할 이유는 너무나 많습니다. 처음부터 성공한다는 보장은 없었습니다.</p><p>하지만 오늘날 우리의 동맹은 어느 때보다 강력하며, 함께 번영해나가고 있습니다. 그리고 우리 두 나라는 그 누구보다도 서로 긴밀하게 연결돼있습니다. 한미동맹은 대한민국의 자유와 평화를 지키고 번영을 일구어 온 중심축이었습니다.</p><p>현대 세계사에서 '도움을 받는 나라에서 도움을 주는 나라'로 발돋움한 유일한 사례인 대한민국은 한미동맹의 성공 그 자체입니다. 저는 오늘 이 자리에서 1882년 수교에서 시작된 140년의 한미 양국의 교류와 협력, 그리고 동맹의 역사를 되새겨보고자 합니다. 대한민국 헌법의 기초가 된 자유와 연대의 가치는 19세기 말 미국 선교사들의 노력에 의해 우리에게 널리 소개되었습니다. 그리고 그 후 우리 국민의 독립과 건국 운동에 큰 영향을 미쳤습니다.</p><p>19세기 말 한국에 온 호러스 언더우드, 헨리 아펜젤러, 메리 스크랜튼, 로제타 홀 등 미국의 선교사들은 학교와 병원을 지었습니다. 특히 이들은 여성 교육에 힘썼고, 그 결과 한국 역사상 최초로 여성들이 교육, 언론, 의료 등 다양한 분야의 사회 활동에 진출하는 기반을 닦아주었습니다.</p><p>1960년대 초반에 박정희 대통령은 현명하게도 케네디 행정부가 권고한 로스토우 교수의 경제성장 모델을 받아들여 경제개발 계획을 추진하고 신흥 산업 국가의 기반을 마련했습니다. '한강의 기적'으로 불릴 만큼 한국의 경제성장 속도는 타의 추종을 불허했습니다. 1인당 소득 67불의 전후 최빈국이었던 대한민국은 세계 10위권의 경제 대국으로 성장했습니다. 전쟁으로 잿더미가 되었던 수도 서울은 70년이 지난 지금 세계에서 가장 활기찬 디지털 국제도시가 됐습니다. 전쟁 중 피난민이 넘쳤던 부산은 환적 물량 기준 세계 2위의 항만 도시가 되었고, 이제 2030년 세계박람회 유치를 위해 뛰고 있습니다.</p><p>대한민국은 이제 자유와 민주주의가 살아 숨 쉬는 활력 넘치는 나라로 세계시민의 사랑을 받고 있습니다. 한미 양국은 한반도를 넘어 전 세계의 자유와 민주주의 수호를 위해 힘을 모아왔습니다. 대한민국은 2차대전 후 아프간, 이라크 등지에 '자유의 전사'를 파견하여 미국과 함께 싸웠습니다.</p><p>지난 70년간 동맹의 역사에서 한미 양국은 군사 안보 협력뿐 아니라 경제 협력도 지속적으로 확대해왔습니다. 초기의 일방적인 지원에서 상호 호혜적인 협력관계로 발전해온 것입니다. 2011년 미 의회의 전폭적인 지지로 통과된 한미 FTA가 가동된 이후 10년간 양국 교역액은 약 68% 증가했고, 우리 기업의 대미 투자는 3배, 미국 기업의 대한국 투자는 2배 가까이 늘었습니다.</p><p>배터리, 반도체, 자동차 등의 분야에서 미국에 진출한 글로벌 한국 기업들은 미국 내 양질의 일자리 창출과 경제 활성화에 기여하고 있습니다. 텍사스주 오스틴에 위치한 삼성전자 반도체 공장은 2020년 기준 약 1만개의 일자리를 창출했으며, 2024년 하반기부터 가동될 조지아주 브라이언 카운티 현대차 공장도 연간 30만대의 전기차와 수많은 일자리를 만들어낼 것입니다. 지난해 11월 바이든 대통령께서 방문한 미시간주 베이시티 SK실트론 CSS는 한국 기업이 미국 회사를 인수해 성장시키는 또 다른 모범 협력 사례입니다. 이러한 호혜적 한미 경제 협력이 곳곳에서 이어질 수 있도록 의원 여러분들의 각별한 관심과 지원을 부탁드립니다.</p><p>친구 여러분, 정치와 경제 분야의 협력을 통해 축적된 양국의 활발한 문화 인적 교류는 두 나라의 우정을 보다 두텁게 했습니다. 올해는 미주 한인 이주 120주년이기도 합니다. 하와이주 사탕수수 농장의 노동자로 진출하기 시작한 한인들은 그동안 미국 사회 각계에 진출해 한미 우호 협력을 증진하고 동맹의 역사를 만들어가는 데 큰 역할을 했습니다. 바로 이 자리에 계신 영 킴 의원님, 앤디 킴 의원님, 미셸 스틸 의원님, 그리고 메릴린 스트릭랜드 의원님 같은 분들이 세대를 이어온 한미동맹의 증인들이십니다. 두 분씩 민주당·공화당 의원님이십니다.</p><p>문화 콘텐츠는 양국 국민이 국적과 언어의 차이를 넘어 더욱 깊은 이해와 우정을 쌓는 촉매제가 되고 있습니다. 한국 영화 기생충과 미나리가 아카데미 수상을 하고, 탑건·어벤져스와 같은 수많은 할리우드 영화가 이미 오래전부터 한국에서 엄청난 사랑을 받아왔습니다. 저도 탑건 매버릭을 굉장히 좋아하고 미션임파서블을 굉장히 좋아합니다. 그리고 제 이름은 모르셨어도 BTS와 블랙핑크는 알고 계셨을 겁니다. BTS가 저보다 백악관을 더 먼저 왔지만, 의회는 제가 먼저 왔네요.</p><p>이제 한미 양국의 음악 차트에서 상대방 국가의 가수 노래가 순위에 오르는 모습이 자연스러운 일이 되었습니다. 미국이 넷플릭스와 같은 글로벌 플랫폼을 만들고, 한국이 오징어게임과 같은 킬러 콘텐츠를 생산해 공급하는 새로운 양상의 시너지 효과도 나타나고 있습니다.</p><p>문화 교류의 활성화로 양국 국민의 관계 또 더욱 가까워졌습니다. 지난해 시카고 국제문제연구소 여론조사에 따르면 미국인의 한국에 대한 호감도가 1978년 이후 가장 높은 것으로 조사됐습니다. 또한 미 여론조사기관 퓨리서치센터에 따르면 지난해 미국에 대한 한국인의 호감도는 89%에 달했으며, 그 증가 폭은 조사대상국 중 가장 크다고 합니다. 이제 한미 양국 청년들이 더욱 활기차게 오가며 공부하고 교육받으며, 직장을 찾을 수 있도록 한미 정부가 함께 체계적인 지원 프로그램을 마련하기로 하였습니다.</p><p>의원 여러분, 제 평생의 직업은 두 가지였습니다. 첫 번째 직업은 대한민국 검사이고, 두 번째 직업은 사랑하는 나의 조국 대한민국의 대통령입니다. 검사 시절, 저의 롤모델은 드라마 'Law ＆ Order'에 나오는 애덤 쉬프 검사의 실제 모델인 로버트 모겐소였습니다. 저는 검찰총장 재직 시 '미국의 영원한 검사 로버트 모겐소'라는 책을 출간해서 후배 검사들에게 나눠준 적도 있습니다.</p><p>발간사에도 모겐소의 명언인 "거악에 침묵하는 검사는 동네 소매치기도 막지 못할 것"이라는 문구를 적었습니다. 지금 우리의 민주주의는 위기에 직면해있습니다. 민주주의는 자유와 인권을 보장하기 위한 공동체의 정치적 의사결정 시스템입니다. 이러한 의사결정은 진실과 자유로운 여론 형성에 기반해야 합니다.</p><p>세계 도처에서 허위 선동과 거짓 정보가 진실과 여론을 왜곡하여 민주주의를 위협하고 있습니다. 법의 지배는 공동체 구성원들의 자유가 공존하는 방식이며, 의회민주주의에 의해 뒷받침됩니다. 허위 선동과 거짓 정보로 대표되는 반지성주의는 민주주의를 위협할 뿐 아니라 법의 지배마저 흔들고 있습니다.</p><p>이들 전체주의 세력은 자유와 민주주의를 위협하고 부정하면서도 마치 자신들이 민주주의 운동가, 인권 운동가인 양 정체를 숨기고 위장하는 경우가 대부분입니다. 우리는 이런 은폐와 위장에 속아서는 안 됩니다. 피와 땀으로 지켜온 소중한 민주주의와 법의 지배 시스템이 거짓 위장 세력에 의해 무너지지 않도록 우리 모두 힘을 합쳐 용감하게 싸워야 합니다.</p><p>자유를 소중히 여기는 사람은 다른 사람의 자유도 소중하게 생각합니다. 따라서 자유는 평화를 만들고 평화는 자유를 지켜줍니다. 그리고 자유와 평화는 창의와 혁신의 원천이고, 번영과 풍요를 만들어냅니다. 70여 년 전 대한민국의 자유를 위해 맺어진 한미동맹은 이제 세계와 자유의 평화를 지키는 글로벌 동맹으로 발전했습니다. 대한민국은 국제사회에서 대한민국의 신장된 경제적 역량에 걸맞은 책임과 기여를 다할 것입니다.</p><p>케네디 대통령은 1961년 취임식에서 "세계시민 여러분, 우리가 여러분을 위해 무엇을 해줄 것인가를 묻지 마십시오. 인류의 자유를 위해 우리가 힘을 모아 무엇을 할 수 있을지를 물으십시오."라고 말했습니다. 이제 인류의 자유를 위해 대한민국이 국제사회와 힘을 모아 해야 할 일을 반드시 할 것입니다.</p><p>대한민국은 미국과 함께 미래로 나아갈 것입니다. 저는 지난해 취임하면서 대한민국을 자유민주주의와 시장경제를 기반으로 국민이 주인인 나라로 만들고 국제사회의 당당한 일원으로서 역할과 책임을 다하는 존경받는 나라, 자랑스러운 조국으로 만들어 가겠다는 소명을 밝혔습니다. 대한민국은 미국과 함께 세계시민의 자유를 지키고 확장하는 '자유의 나침반' 역할을 해나갈 것입니다.</p><p>한미 양국의 자유를 향한 동맹이 70년간 이어지는 동안에도 이와 정반대의 길을 고집하는 세력이 있습니다. 바로 북한입니다. 자유민주주의를 선택한 대한민국과 공산 전체주의를 선택한 북한은 지금 분명히 비교되고 있습니다.</p><p>북한은 자유와 번영을 버리고 평화를 외면해 왔습니다. 북한의 불법적 핵 개발과 미사일 도발은 한반도와 세계 평화에 대한 심각한 위협입니다. 북한의 무모한 행동을 확실하게 억제하기 위해서는 무엇보다도 한미의 단합된 의지가 중요합니다. 레이건 대통령이 말한 바와 같이 "우리가 용납할 수 없는 지점이 있으며, 절대로 넘어서는 안 될 선이 있다"는 것을 북한에게 분명하게 알려줘야 합니다.</p><p>어제 열린 정상회담에서 저와 바이든 대통령은 한층 강화된 확장억제 조치에 합의했습니다. 날로 고도화되는 북핵 위협에 대응하기 위해 한미 공조와 더불어 한미일 3자 안보 협력도 더욱 가속화 해야 합니다. 우리 정부는 도발에는 단호히 대응하되 비핵화를 위한 대화의 문을 열어둘 것입니다.</p><p>저는 지난해 북한이 핵 개발을 중단하고 실질적 비핵화 프로세스로 전환한다면 북한의 민생과 경제를 획기적으로 개선하겠다는 '담대한 구상'을 제안했습니다. 북한이 하루빨리 도발을 멈추고 올바른 길로 나오기를 다시 한번 촉구합니다.</p><p>한미 양국은 북한의 비핵화를 이끌어내기 위한 노력을 함께 기울여 나갈 것입니다. 북한 정권이 핵·미사일 개발에 몰두하는 사이 북한 주민들은 최악의 경제난과 심각한 인권 유린 상황에 던져지고 있습니다. 우리는 북한 주민의 비참한 인권 실상을 전 세계에 알리는 동시에, 북한 주민에게 자유를 전달하는 의무를 게을리해서는 안 됩니다.</p><p>지난달 대한민국 정부는 북한 인권보고서를 최초로 공개 발간했습니다. 보고서는 최근 5년간 북한 이탈주민 508명의 증언을 바탕으로 세계인권선언과 국제인권조약 등 국제적 기준을 적용해 북한 인권 유린 사례를 두루 담고 있습니다. 코로나19 방역 지침을 어겼다는 이유로 무자비하게 총살당한 사례, 한국의 영화와 드라마를 시청하고 유포했다고 공개 처형한 사례, 성경을 소지하고 종교를 가졌다는 이유만으로 공개 총살을 당한 사례 등 이루 말할 수 없는 참혹한 일들이 발생하고 있습니다.</p><p>국제사회는 이러한 북한 인권 유린의 참상을 널리 알려야 합니다. 여기에 계신 의원 여러분들도 북한 주민들의 열악한 인권이 개선될 수 있도록 함께 힘써주시길 바랍니다.</p><p>친구 여러분, 자유민주주의는 또다시 위협받고 있습니다. 우크라이나 전쟁은 국제규범을 어기고 무력을 사용해 일방적으로 현상을 변경하려는 시도입니다. 대한민국은 정당한 이유 없이 감행된 우크라이나에 대한 무력공격을 강력히 규탄합니다.</p><p>1950년 북한이 우리를 침공했을, 자유민주주의 국가들은 우리를 돕기 위해 달려왔습니다. 우리는 함께 싸워 자유를 지켰습니다. 그리고 그 결과는 역사가 말해주고 있습니다.</p><p>우리의 경험은 자유민주주의 국가들의 연대가 얼마나 중요한지 말해줍니다. 대한민국은 자유세계와 연대하여 우크라이나 국민의 자유를 수호하고 이들의 재건을 돕는 노력을 적극적으로 펴 나갈 것입니다.</p><p>의원 여러분, 이제까지 6명의 대한민국 대통령이 이 영예로운 자리에서 연설을 한 바 있습니다. 노태우 대통령은 1954년 대한민국 초대 대통령 이승만 박사가 이곳에서 연설한 지 35년 뒤인 1989년 여기 연단에 서서 이런 말을 했습니다. "태평양 연안 국가들은 개방 사회와 시장 경제를 통해 이 지역이 세계에서 가장 빠른 성장을 이루도록 만들었습니다. 미국에 태평양은 더욱 중요하게 될 것입니다. 한국은 이 지역의 평화와 번영에 더욱 기여하는 나라가 될 것입니다. 언젠가 한국의 대통령이 다시 이 자리에서 서서 오늘 내가 한 이야기가 내일의 꿈이 아니라 현실이 되고 있다고 말할 날이 올 것입니다."</p><p>노태우 대통령의 꿈은 이미 현실이 되었습니다. 우리는 지금 인도-태평양 시대에 살고 있습니다. 세계인구의 65%, 전 세계 GDP의 62%, 전 세계 해상 운송 물량의 절반이 이 지역에서 이루어지고 있습니다. 대한민국은 지난해 처음으로 포괄적 지역 전략인 '인도-태평양 전략'을 발표했습니다. 대한민국은 포용, 신뢰, 호혜의 원칙에 따라 '자유롭게 평화로우며 번영하는 인도·태평양 지역'을 만들어 나갈 것입니다.</p><p>인태 지역 내 규범 기반의 질서를 강화하기 위해 주요 파트너들과의 협력을 포괄적이고 중층적으로 확대해 나갈 것입니다. 그만큼 한미동맹이 작동하는 무대 또한 확장되는 것입니다. 미국 국제개발처 USAID 지원을 받던 한국은 이제 미국과 함께 개발도상국들에게 개발 경험을 전수해 주고 있습니다. 한국은 공적개발원조 규모를 대폭 확대하고 수혜국의 수요와 특성에 맞는 맞춤형 개발협력 프로그램을 제공하고 있습니다.</p><p>어제 열린 한미정상회담에서 저와 바이든 대통령은 '미래로 전진하는 행동하는 동맹'의 비전을 담은 공동성명을 채택했습니다. 양국은 외교 안보를 넘어 인공지능, 퀀텀, 바이오, 오픈랜 등 첨단분야 혁신을 함께 끌어 나갈 것입니다. 아울러, 양국의 최첨단 반도체 협력 강화는 안정적이고 회복력 있는 공급망 구축과 경제적 불확실성 해소에 기여할 것입니다.</p><p>양국은 동맹의 성공적 협력의 역사를 새로운 신세계인 우주와 사이버 공간으로 확장시켜 나가야 합니다. 세계에서 가장 혁신적이고 창의적인 두 기술 강국의 협력은 커다란 시너지 효과를 창출할 수 있을 것입니다.</p><p>존경하는 하원의장님, 부통령님, 상하원 의원 여러분, 한미 동맹은 자유, 인권, 민주주의라는 보편적 가치로 맺어진 가치동맹입니다. 우리의 동맹은 정의롭습니다. 우리의 동맹은 평화의 동맹입니다. 우리의 동맹은 번영의 동맹입니다. 우리의 동맹은 미래를 향해 계속 전진할 것입니다. 우리가 함께 만들어나갈 세계는 미래 세대들에게 무한한 기회를 안겨줄 것입니다. 여러분께서도 새로운 여정에 함께해주시길 당부합니다.</p><p>여러분과 미국의 앞날에 축복이, 그리고 우리의 위대한 동맹에 축복이 있기를 기원합니다. 감사합니다.</p><p><strong>※연설문 전문 영문 버전</strong></p><p>Address to a Joint Meeting of the U.S. Congress in Commemoration of the 70th Anniversary of the ROK-U.S. Alliance</p><p>Mr. Speaker, Madam Vice President, Honorable Members of the United States Congress, Distinguished Guests, Ladies and Gentlemen, Dear Citizens of America,</p><p>"A new nation, conceived in Liberty, and dedicated to the proposition that all men are created equal."</p><p>I stand before that nation with the conviction of freedom, belief in the Alliance, and resolve to open a new future.</p><p>For 234 years, a Congress has been the symbol of freedom and democracy. This Chamber embodies the spirit of the Constitution. I am honored to address the Members of Congress and the people of the United States.</p><p>Thank you, both Democrats and Republicans, for passing the Resolution marking the 70th Anniversary of the Alliance. Your support has dignified my visit. I know that no matter where you sit, you stand with Korea.</p><p>Over the past century, we have faced many threats. But the U.S. has always led the world in defense of freedom.</p><p>Imperial nations fought for colonies. And humanity greatly suffered from the two World Wars. America righteously stepped in to defend freedom.</p><p>But it was not without cost.</p><p>We remember the leadership of General MacArthur and Admiral Nimitz. But more than 100,000 American men and women perished in the Pacific War.</p><p>Their sacrifice was not in vain.</p><p>U.S. leadership established the new world order based on free trade. It brought peace and prosperity throughout the world.</p><p>But prosperity was limited to free market economies where communist totalitarian nations did not participate. The world was divided into democratic and communist blocs.</p><p>In 1950, the Korean Peninsula was on the front line. The Soviet Union helped to rearm North Korea. North Korea's surprise attack threatened the peace on the Korean Peninsula and Asia. Korea's freedom and democracy were on the brink.</p><p>At that decisive moment, the U.S. did not look the other way. Korean and American soldiers stood shoulder to shoulder and fought bravely. Tales of our heroes were written.</p><p>General MacArthur caught the enemy off guard with the landing of Incheon and turned the tide of the war. Operation Chromite was one of the greatest decisions ever made in the history of war.</p><p>The U.S. 1st Marine Division miraculously broke through a wave of 120,000 Chinese troops at the Battle of Lake Changjin.</p><p>Sons and daughters of America sacrificed their lives to "defend a country they never knew and a people they never met."</p><p>In the Battle of Lake Changjin alone, 4,500 American service members lost their lives. Over the course of the War, almost 37,000 U.S. soldiers fell.</p><p>The late Colonel William Weber fought in the Battle for Hill 324 in Wonju. He lost his right arm and leg. Yet, this American hero dedicated his life to honoring the noble sacrifice made by the Korean War veterans.</p><p>Today we are honored to have his granddaughter Ms. Dayne Weber with us. Ms. Weber, would you stand up please?</p><p>On behalf of the Korean people, I would like to thank you deeply. We salute his noble service and sacrifice.</p><p>(Thank you, Dayne.)</p><p>Some of the Korean War heroes are your family and friends. The late John Conyers Jr., Sam Johnson, and Howard Coble were veteran Congressmen who promoted freedom and democracy. And the former Representative Charles Rangel has been a strong supporter of the Alliance.</p><p>Korea will never forget the great American heroes who fought with us to defend freedom.</p><p>Thank you. Thank you.</p><p>I take this opportunity to pay tribute to all the Korean War veterans and their families. You did not hesitate to send your sons and daughters, husbands and wives, brothers and sisters. You answered the call to defend the freedom of a country across the Pacific.</p><p>I thank the U.S. and its people for honoring the Korean War as a proud legacy. Thank you also for treating the veterans with honor and respect.</p><p>Thank you. Thank you.</p><p>The war ended after three years of intense battle. Our two nations signed the Mutual Defense Treaty and opened a new era of the alliance. Ever since, the Korean people rose from the ruins of war to build a thriving nation. And at every step, America has stood together with Korea.</p><p>We have many reasons to celebrate our Platinum Anniversary. We had no guarantees of success when we started. But today, our Alliance is stronger than ever, more prosperous together, and more connected like no other. Indeed, it has been the linchpin safeguarding our freedom, peace and prosperity.</p><p>Once a recipient of aid, Korea is the only nation in modern history to become a donor. This itself demonstrates the success of our Alliance.</p><p>Let me talk about the history of our Alliance. The ties of our cooperation and exchange span over 140 years since the establishment of diplomatic relations in 1882.</p><p>In the late 19th century, American missionaries helped to widely introduce the values of freedom and solidarity to Korea. These values are the foundations of Korea's Constitution. They have made a huge impact on our independence movement and the founding of Korea.</p><p>Horace Underwood, Henry Appenzeller, Mary Scranton, and Rosetta Hall are some of the missionaries to set foot in Korea at the end of the nineteenth century. They built schools and hospitals. They promoted education of women. Their efforts laid the foundations for many Korean women to advance into society as educators, journalists, and doctors.</p><p>In the early 1960s, the Kennedy administration recommended Professor Rostow's model for economic growth. President Park Chung-hee wisely embraced the idea and pushed economic development forward. It laid the foundation for Korea to become an industrialized country.</p><p>Known as the "Miracle on the Han River," Korea's economic growth rate was unrivaled. Korea was one of the Least Developed Countries after the war. Its annual income was just US per capita. Now its economy ranks tenth in the world.</p><p>Thank you.</p><p>Seoul was once reduced to ashes. Now it is one of the world's most vibrant digital cities.</p><p>Busan was once flooded with war refugees. Now it is the world's second-largest port city in terms of transshipment volume. It is also bidding to host the World Expo 2030.</p><p>Korea is winning the hearts of global citizens. It is dynamic. Freedom is thriving and democracy is robust.</p><p>Korea and the U.S. have joined forces to safeguard freedom and democracy throughout the world. Since World War II, Korea dispatched its warriors of freedom. We fought side by side with the U.S. in Afghanistan, Iraq, and others.</p><p>For over 70 years in the history of the Alliance, we worked together in military and security sectors. We also expanded our cooperation in the economic field. Our relationship has evolved from one of unilateral assistance to a partnership that is mutually beneficial.</p><p>The KORUS FTA was approved with the full support of the U.S. Congress in 2011. Since then, our bilateral trade has increased by 68%. Korean companies' investment in America has tripled. U.S. companies' investment in Korea has nearly doubled.</p><p>Korean companies are contributing to vitalize the U.S. economy. They are producing EV batteries, semiconductors, cars, and other products here in America. And more importantly, they are creating decent, well-paying jobs.</p><p>Take Austin, Texas. Samsung's semiconductor plant has created nearly 10,000 jobs as of 2020.</p><p>Take Bryan County, Georgia. Hyundai's EV and battery plant is expected to be operational by late 2024. It will produce 300,000 electric vehicles every year. It will employ thousands of Americans.</p><p>And take Bay City, Michigan. It is home to SK Siltron CSS, where President Biden visited. It is an example of Korean and American companies merging to achieve even greater growth.</p><p>I hope to see more economic cooperation in other parts of America. In this regard, I count on your keen interest and support.</p><p>My friends, years of active cultural and people-to-people exchanges have deepened our friendship. This year also marks the 120th anniversary of Korean immigration to the U.S.</p><p>Early Korean immigrants arrived as workers on sugar cane plantations in Hawaii. Since then, Korean Americans have made their way into many parts of the American society. They have played an important role fostering closer friendship and writing the history of our Alliance.</p><p>Representatives Young Kim, Andy Kim, Michelle Steel, and Marilyn Strickland are here with us. They are a testament to the Alliance spanning generations.</p><p>That's two for each party. It's a relief that you are evenly placed across the aisle.</p><p>Even more, culture is helping to further deepen our understanding and friendship. Nationality and language differences are no longer barriers.</p><p>Korean movies "Parasite" and "Minari" have won Oscars. Hollywood films "Top Gun" and "the Avengers" are loved by Koreans. I also love "Top Gun: Maverick" and also "Mission Impossible"</p><p>And even if you didn't know my name, you may know BTS and BLACKPINK. BTS beat me to the White House. But I beat them to Capitol Hill. Korean and American singers reaching high places in each other's music charts is no longer a surprise.</p><p>The U.S. created global platforms like Netflix. Korea has produced popular series such as "Squid Game." We are creating a new pattern of synergy.</p><p>These cultural exchanges have brought our peoples closer. According to Chicago Council on Global Affairs, Americans' positive views of Korea reached the highest level since 1978. And according to a Pew survey last year, Koreans' positive views of the U.S. reached 89%. It marks the largest increase among all the countries surveyed.</p><p>Korea and the U.S. agreed to set up an assistance program for our students. It will help them to study and find jobs actively in each other's country.</p><p>Honorable Members of Congress,</p><p>I have had two careers in my life. My first job was as a public prosecutor. My second job is serving as the President of my beloved country.</p><p>As prosecutor, my role model was the late Robert Morgenthau. He was the real-life character of District Attorney Adam Schiff in "Law ＆ Order." When I was the Prosecutor General, I printed a book titled "Robert Morgenthau: America's Eternal Attorney." I shared it with my junior prosecutors.</p><p>In the preface, I included the phrase: an attorney who is silent in the face of great evil will not even stop pickpockets in the neighborhood.</p><p>Today, our democracy is at risk.</p><p>Democracy is a community's political decision-making system to protect freedom and human rights. Such decision-making must be based on truths and freely formed public opinion.</p><p>But today in many parts of the world, false propaganda and disinformation are distorting the truth and public opinion. They are threatening democracy.</p><p>The rule of law allows the freedoms of everyone to coexist. It is upheld by parliamentary democracy.</p><p>False propaganda and disinformation corrupt intellectualism. They threaten democracy and the rule of law.</p><p>Such totalitarian forces may conceal and disguise themselves as defenders of democracy or human rights. But in reality, they deny freedom and democracy.</p><p>We must not be fooled by such deception and disguises.</p><p>We have for so long protected democracy and the rule of law with our blood and sweat. We must work together and fight the forces of falsehood and deception that seek to destroy democracy and the rule of law.</p><p>Those who cherish freedom also respect the freedom of others. Thus, freedom brings peace. Peace, in turn, safeguards freedom. Freedom and peace are sources of creativity and innovation. They bring prosperity and abundance.</p><p>Our Alliance was forged 70 years ago to defend Korea's freedom. The Alliance has now become a global alliance that safeguards freedom and peace around the world. Korea will fulfill its responsibilities. It will play its part that matches its economic capacity.</p><p>In his 1961 Inauguration Address, President John F. Kennedy said, "My fellow citizens of the world: ask not what America will do for you, but what together we can do for the freedom of man." Korea will stand in solidarity with the international community. We will do what we can for the freedom of humanity.</p><p>Korea, with the U.S., will march toward the future.</p><p>As I took office last year, I pledged to rebuild Korea: a nation belonging to the people rooted in freedom, democracy, and market economy; a nation that the people can be truly proud of, as it fulfills its role as a responsible member of the international community.</p><p>Together with the U.S., Korea will play the role as a "compass for freedom." It will safeguard and broaden the freedom of citizens of the world.</p><p>But even as we walked in unison for freedom for 70 years, there is one regime determined to pursue a wrong path. That is North Korea.</p><p>The difference is stark between Seoul that chose freedom and democracy and Pyongyang that chose dictatorship and communism. North Korea has abandoned freedom and prosperity and dismissed peace.</p><p>North Korea's nuclear program and missile provocations pose a serious threat to the peace on the Korean Peninsula and beyond.</p><p>To deter its reckless behavior, the alliance must stand united with determination. As President Reagan once said: "There is a price we will not pay. There is a point beyond which they must not advance." We must make his words clear to North Korea.</p><p>Yesterday, President Biden and I agreed to strengthen the U.S. extended deterrence. Along with close Korea-U.S. coordination, we need to speed up Korea-U.S.-Japan trilateral security cooperation to counter increasing North Korean nuclear threats.</p><p>My government will respond firmly to provocations. But at the same time, we will keep the door open for dialogue on North Korea's denuclearization.</p><p>Last year, I proposed the "Audacious Initiative." It will significantly improve North Korea's economy and livelihood. All Pyongyang has to do is to stop its nuclear program and begin a substantive denuclearization process.</p><p>I once again urge North Korea to cease its provocations and take the right path. Korea, with the U.S., will continue to work for North Korea's denuclearization.</p><p>Thank you, thank you, thank you.</p><p>North Korea's obsession with nuclear weapons and missiles is throwing its population into a severe economic crisis and human rights abuses.</p><p>We must raise global awareness of the dire human rights situation in North Korea. We must not shy away from our duty to promote freedom for North Koreans.</p><p>Last month, my government published a report on North Korean human rights. We released it to the public for the first time.</p><p>The report documents a wide range of abuses in North Korea. It is based on the testimonies of 508 North Korean defectors collected over the past five years. It records many cases of serious violations of international norms such as the Universal Declaration of Human Rights and other human rights agreements.</p><p>Unspeakable and horrendous incidents took place: men and women being shot and killed for violating COVID-19 prevention measures; some being publicly executed for watching and sharing South Korean shows; and people being shot in public for possessing the Bible and having faith.</p><p>We need to raise awareness. We must inform the world of the gravity of North Korea's human rights violations. I ask for your help in improving North Korea's grim conditions.</p><p>My friends, freedom and democracy are once again under threat. The war against Ukraine is a violation of international law. It is an attempt to unilaterally change the status quo with force. Korea strongly condemns the unprovoked armed attack against Ukraine.</p><p>When North Korea invaded us in 1950, democracies came running to help us. We fought together and kept our freedom. The rest is history.</p><p>Korea's experience shows us just how important it is for democracies to uphold solidarity. Korea will stand in solidarity with the free world. We will actively work to safeguard the freedom of the people of Ukraine and support their efforts in reconstruction.</p><p>Honorable Members of Congress,</p><p>So far six Korean Presidents spoke at this important Chamber. The first Korean President, Dr. Rhee Syngman, delivered his speech in 1954. After 35 years in 1989, President Roh Tae-woo standing at this podium said the following:</p><p>"The nations of the Pacific have made open society and market economy, the engines that drive the fastest growing region in the world. The Pacific will become even more important to the U.S., and Korea will begin to contribute more to the prosperity and peace of the region… I look forward to the day when some future Korean Presidents may be invited to address this distinguished assembly and describe the vision I spoke of today as an achievement fulfilled, not as tomorrow's hope."</p><p>President Roh's vision has become a reality.</p><p>Thank you, thank you.</p><p>We are currently living in the Indo-Pacific era. This region is home to 65% of the global population, and 62% of the world GDP. It accounts for a half of global maritime transportation.</p><p>Last year, Korea announced its first comprehensive Indo-Pacific Strategy. Korea is committed to fostering a "free, peaceful, and prosperous Indo-Pacific" based on inclusiveness, trust, and reciprocity.</p><p>We will strengthen the rules-based order in the Indo-Pacific. We will take a comprehensive and multi-layered approach in expanding cooperation with key partners.</p><p>This also means that the stage for the Alliance is expanding.</p><p>Korea used to receive assistance from USAID. It is now sharing its experience with developing countries in partnership with the U.S. Korea has greatly increased its ODA budget. It is providing tailored programs in tune with the needs of its partners.</p><p>Yesterday, President Biden and I adopted a joint statement. It presents a vision of the "Alliance in Action towards the Future."</p><p>Together, our two countries will broaden our Alliance.</p><p>Together, we will lead in innovation beyond security and foreign policy. We will work closely on artificial intelligence, quantum technology, bioscience, and Open RAN.</p><p>Our partnership in the cutting-edge semiconductor industry will contribute to establishing stable and resilient supply chains. It will also address economic uncertainties.</p><p>Together, we will open another new successful chapter. We will explore new frontiers in outer space and cyberspace.</p><p>Korea and the U.S. are the world's top technological powers leading innovation and creativity. Together, we will create a great synergy.</p><p>Mr. Speaker, Madam Vice President, and Honorable Members of Congress,</p><p>Our Alliance is an alliance of universal values. Freedom, human rights, and democracy are the very foundations of our bonds.</p><p>Our Alliance is for justice. Our Alliance is for peace. Our Alliance is for prosperity.</p><p>Together, our Alliance will continue to move towards the future.</p><p>We will build the world of tomorrow that opens endless opportunities for our future generations.</p><p>I look forward to everyone being on board for our new journey together.</p><p>God bless you, God bless the United States of America, and may God bless our great alliance.</p><p>Thank you.</p>
+                    </p>
+                </div>
+                <div class="tag">
+                    <ul>
+                        <!--<li><a href="#">#야권</a></li>
+                        <li><a href="#">#유승민</a></li>
+                        <li><a href="#">#단일</a></li>
+                        <li><a href="#">#경선</a></li>
+                        <li><a href="#">#대선</a></li>
+                        <li><a href="#">#국민의당</a></li>
+                        <li><a href="#">#시선집중</a></li>
+                        <li><a href="#">#보궐선거</a></li>
+                        <li><a href="#">#원내대표</a></li>
+                        <li><a href="#">#검찰총장</a></li>-->
+                    </ul>
+                </div>
+
+
+                <!--<a href="#"><img style="width:100%;" src="/assets/images/common/naver_banner.jpg" alt="naver에서 매일신문을 만나보세요!"></a>-->
+                <div class="chn_box">
+                    <div>
+                        <a href="https://tv.naver.com/maeilshinmun" target="_blank">네이버TV<span>구독 +</span></a>
+                    </div>
+                    <div>
+                        <a href="https://www.youtube.com/c/MaeilShinmun" target="_blank">유튜브<span>구독 +</span></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- 기사본문 끝 -->
+        <!-- 이디엘 3슬롯 바이라인 하단 시작 -->
+        <div>
+            <iframe src="//io1.innorame.com/imp/bd3G0KbX8NjD.iframe" width="100%" height="260" allowtransparency="true"
+                    marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no"
+                    style="width:280px;min-width:100%;position:relative;z-index:99999999999;"></iframe>
+        </div>
+        <!-- 이디엘 3슬롯 바이라인 하단 끝 -->
+        <!-- 기사 하단 시작 -->
+        <div class="article_view_bottom">
+            <div class="h70"></div>
+            <!-- 기사 리스트 014 시작 -->
+            <!--<div class="arl_014">
+                <h2 class="head_title">
+                    최신 기사
+                </h2>
+                <ul id="sub_view1" class="wcms_outline" control_type="A" paging_yn="N">
+                    <li>
+                        <p class="title">
+                            <a href="{wcms_link}">[전문] 윤석열 대통령 미 의회 연설문 한글·영문 버전</a>
+                        </p>
+                    </li>
+                </ul>
+            </div>-->
+            <input type="hidden" id="wcms_category_name" value="정치" />
+            <div class="arl_014">
+                <h2 class="head_title">
+                    정치 기사
+                </h2>
+                <ul class="category_refer_news_list">
+                    <li><p class="title"><a href="https://news.imaeil.com/page/view/2023051111323880467">민주당 "전세사기 특별법 정부 태도 너무 안이해…절박성 전혀 없어"</a></p></li><li><p class="title"><a href="https://news.imaeil.com/page/view/2023051111320581315">박지원, 코인 김남국에 "돈 벌고 출세, 도둑이다"</a></p></li><li><p class="title"><a href="https://news.imaeil.com/page/view/2023051111254461112">장혜영 의원, '김남국 방지법' 필요…공직자 가상자산 신고법 추진</a></p></li><li><p class="title"><a href="https://news.imaeil.com/page/view/2023051111142970065">김기현 "송구하다…민주당 도덕 불감증, 우린 그럴 수 없어" 김재원·태영호 논란 사과 </a></p></li><li><p class="title"><a href="https://news.imaeil.com/page/view/2023051111024973742">"올 겨울 에너지 취약 계층 지난해보다 두 배 이상 증가"</a></p></li><li><p class="title"><a href="https://news.imaeil.com/page/view/2023051111062250676">전환교통 지원 협약사업자에 포스코 등 선정</a></p></li>
+                    <!--<li>
+                        <p class="title">
+                            <a href="{wcms_link}">[전문] 윤석열 대통령 미 의회 연설문 한글·영문 버전</a>
+                        </p>
+                    </li>-->
+                </ul>
+            </div>
+            <!-- 기사 리스트 014 끝 -->
+            <div class="h25"></div>
+            <!--div class="line"></div-->
+            <!-- 바이라인하단 광고 시작-->
+            <div class="art_mid_ad" id="art_mid_ad3">
+                <div style='float:left; min-width: 300px; min-height: 250px;'>
+                    <ins class="adsbyaiinad" data-aiinad-inv="22773693155"></ins>
+                </div>
+                <div style='float:right; min-width: 300px; min-height: 250px;'>
+                    <ins class="adsbyaiinad" data-aiinad-inv="22773504367"></ins>
+                </div>
+                <div style="clear:both;"></div>
+            </div>
+            <!-- 바이라인하단 광고 끝 -->
+            <div class="h20"></div>
+            <!-- 라이브리 시작 -->
+            <div class="livery">
+                <div id="lv-container" data-id="imaeil" data-uid="NTMxLzEzNTM2LzU5NA==">
+                    <script type="text/javascript">
+                        var rfurlNew = 'news.imaeil.com/page/view/2023042801345397733';
+                        window.livereOptions = {
+                            refer: rfurlNew,
+                            customMessage: {
+                                m_write_placeholder: '매일신문은 모든 댓글을 소중히 생각합니다. 다음의 경우에는 고지없이 삭제하겠습니다. \n·음란 및 청소년 유해 정보 ·개인정보 ·명예훼손 소지가 있는 댓글 ·도배성 댓글 ·기타 관련 법률 및 법령에 위배되는 댓글'
+                            }
+                        };
+
+                        (function (d, s) {
+                            var j, e = d.getElementsByTagName(s)[0];
+
+                            if (typeof LivereTower === 'function') {
+                                return;
+                            }
+
+                            j = d.createElement(s);
+                            j.src = 'https://cdn-city.livere.com/js/embed.dist.js';
+                            j.async = true;
+                            e.parentNode.insertBefore(j, e);
+                        })(document, 'script');
+                    </script>
+                    <noscript>라이브리 댓글 작성을 위해 JavaScript를 활성화해주세요</noscript>
+
+                </div>
+            </div>
+            <!-- 라이브리 끝 -->
+            <div class="h30"></div>
+            <!-- 바이라인하단1 광고 시작 -->
+            <div class="art_mid_ad" id="art_mid_ad4" style="text-align:center">
+                <ins class="adsbyaiinfeed" data-aiinfeed-inv="278"></ins>
+            </div>
+            <!-- 바이라인하단1 광고 끝 -->
+            <div class="h30"></div>
+            <div class="line"></div>
+            <div class="h30"></div>
+            <!-- 기사 리스트 015 시작 -->
+            <!--
+            <div class="arl_015">
+                <h2 class="head_title">
+                    정치기사
+                </h2>
+                <ul id="sub_section2" class="wcms_outline" control_type="A" paging_yn="N">
+                    <li>
+                        <p class="title">
+                            <a href="{wcms_link}">[전문] 윤석열 대통령 미 의회 연설문 한글·영문 버전</a>
+                        </p>
+                    </li>
+                </ul>
+            </div>
+            -->
+            <!-- 기사 리스트 015 끝 -->
+            <div class="h25"></div>
+            <div class="line"></div>
+            <div class="h30"></div>
+        </div>
+        <!-- 기사 하단 끝 -->
+    </div>
+    <!-- 섹션 끝 -->
+    <!-- 사이드 시작 -->
+    <div class="aside aside2">
+        <div class="wcms_side"><!-- 매일 HOT 코너 5 시작  
+<div>
+    <a href="/money">
+        <img src="/upload/sub1.png" alt="">
+    </a>
+    <a href="/medical">
+        <img src="/upload/sub2.png" style="margin-top:-1px;" alt="">
+    </a>
+    <a href="/hotplace">
+        <img src="/upload/sub3.png" style="margin-top:-1px;" alt="">
+    </a>
+    <a href="/pet">
+        <img src="/upload/sub4.png" style="margin-top:-1px;" alt="">
+    </a>
+    <a href="/travel">
+        <img src="/upload/sub5.png" style="margin-top:-1px;" alt="">
+    </a>
+</div>
+<div class="h20"></div>
+ // 매일 HOT 코너 5  끝--> 
+
+<!-- <div class="corona_wrap">
+    <div>
+            </div>
+</div> -->
+<!-- <div class="h20"></div> -->
+
+<!-- 배너 관리 22번 시작 -->
+<div class="wcms_banner banner_slide" id="22" title="대구은행" onmousedown="eval('try{ _trk_clickTrace( \'EVT\', \'PC_우측_대구은행\' ); }catch(_e){ }');"><a href='/wcms_ad.php?ads_idx=22' target='_blank'><img src='/upload/ads/2021/09/15/bbf1a8341c77c3dba007b918915d7651.gif' width='270' height='64' /></a></div>
+<!-- 배너 관리 22번 끝 -->
+
+
+
+
+<div class="h20"></div>
+<!-- 기사리스트 005 시작 -->
+<div class="ranknews">
+    <div class="top">
+        <h2>많이 본 뉴스</h2>
+        <div class="ranknews_tab">
+            <div class="on">일간</div>
+            <div>주간</div>
+            <div>월간</div>
+        </div>
+    </div>
+    <div class="list_wrap wcms_bestnews">
+        <div class="box wcms_bestnews_day" style="display: block;"><ul><li>  <a href="/page/view/2023050600083545767">지역大 통합 이어 구조조정 '생존 사활'…일부 학과 신입생 모집 안 한다</a></li><li>  <a href="/page/view/2023051015530662019">대구서도 초교생 유괴 신고…학부모들 불안감</a></li><li>  <a href="/page/view/2023051015384197918">홍준표 시장·이재명 대표 '대구 회동'…달빛철도 조기 착공·국비 확보 동행</a></li><li>  <a href="/page/view/2023050214365276953">삼성, 비수도권 투자 56조 본격화…구미경제계 "시·정치권 힘 모아야"</a></li><li>  <a href="/page/view/2023051017290329014">또 우회전 사망 사고, 수원 스쿨존서 8세 초등생 버스에 치여(종합)</a></li><li>  <a href="/page/view/2023050818034453415">'전국 유일' 대구 공설 도축장 문 닫을까…다음 달 결론</a></li><li>  <a href="/page/view/2023050915362699945">에코프로 허술한 폐기물 관리…공장 지으려던 회사 도산 위기</a></li><li>  <a href="/page/view/2023051016532506257">엘앤에프, 1분기 최대 매출에도 적자 전환</a></li><li>  <a href="/page/view/2023051022003906455">김재원 당원권 정지 1년, '자진사퇴' 태영호는 3개월</a></li><li>  <a href="/page/view/2023051020450924184">대구 중·남·수성구, 포항·경주 '미분양 관리' 재지정</a></li></ul><div class="more">더보기</div></div>
+        <div class="box wcms_bestnews_week"><ul><li>  <a href="/page/view/2023050813424464903">'카톡이 또'…점심시간 한때 송·수신 장애</a></li><li>  <a href="/page/view/2023050811493608240">현충원에 일장기…野 "통탄할 일", 현충원 "의전상 당연"</a></li><li>  <a href="/page/view/2023050810210435682">[주간 전망] 삼성, 한화와 3연전 총력전 펴야 하는 이유</a></li><li>  <a href="/page/view/2023050713342894772">'경북 어디서나 이용' 대구경북 순환철도망 잇는다</a></li><li>  <a href="/page/view/2023050602040097499">부산 양정역 인근 건물 9층서 화재 "2명 부상"</a></li><li>  <a href="/page/view/2023050909324546560">[단독] 달성군 세천 지역 학부모 소원 풀었다…2026년 세천 중학교 신설</a></li><li>  <a href="/page/view/2023050915442147611">[단독]울릉공항에 브라질산 소형 여객기 뜨나…경북도-엠브레어 시범 비행 추진</a></li><li>  <a href="/page/view/2023050715371546479">설탕 가격 급등에 타격 우려 지역 빵집 '전전긍긍' </a></li><li>  <a href="/page/view/2023050600083545767">지역大 통합 이어 구조조정 '생존 사활'…일부 학과 신입생 모집 안 한다</a></li><li>  <a href="/page/view/2023050917571743365">성주~대구 고속도로…여야 공조로 '4전 5기' 예타 통과 노린다 </a></li></ul><div class="more">더보기</div></div>
+        <div class="box wcms_bestnews_month"><ul><li>  <a href="/page/view/2023050309384369748">이마트에서 유닉스 드라이어 럭키박스 판매 '28만 9천원 드라이어를 2만4천900원에'</a></li><li>  <a href="/page/view/2023050813424464903">'카톡이 또'…점심시간 한때 송·수신 장애</a></li><li>  <a href="/page/view/2023042801345397733">[전문] 윤석열 대통령 미 의회 연설문 한글·영문 버전</a></li><li>  <a href="/page/view/2023042000174467253">"내신 이 정도면 학종 가능?"…'학생부종합전형'에 대한 흔한 오해들</a></li><li>  <a href="/page/view/2023042008044070231">아스트로 멤버 문빈 사망…차은우도 급히 귀국 준비</a></li><li>  <a href="/page/view/2023041907295693790">'김건희 특검' 천막농성 민주당…현실은 '술판'? 소주에 캔맥주에</a></li><li>  <a href="/page/view/2023050811493608240">현충원에 일장기…野 "통탄할 일", 현충원 "의전상 당연"</a></li><li>  <a href="/page/view/2023042512043693780">[단독] 계성고, 대구 첫 '3학기제' 실시…방학에도 정규 교육</a></li><li>  <a href="/page/view/2023041411232965515">대구서 원숭이두창 10번째 확진자 발생</a></li><li>  <a href="/page/view/2023042317480935771">배터리 리콜 기다리다가 '펑!'…대구 전기차 화재 한달새 3차례</a></li></ul><div class="more">더보기</div></div>
+    </div>
+</div>
+<!-- 기사리스트 005 끝 -->
+
+<!--
+<div class="h25"></div>
+<iframe width="100%" height="150"
+        src="https://www.youtube.com/embed/videoseries?list=PLkZ8jtFtJ4AcnC5ZVFCw1kGEDDGNzFe7M"
+        title="YouTube video player" frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen=""></iframe>
+-->
+
+<!--<div class="h20"></div>-->
+<!--<iframe width="100%" height="152" src="https://www.youtube.com/embed/HHdXJwQW_XY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
+<!-- 배너 관리 끝 -->
+
+
+<div class="h20"></div>
+<!-- 배너 관리 23번 시작 -->
+<div class="wcms_banner banner_slide" id="23" title="이마트" onmousedown="eval('try{ _trk_clickTrace( \'EVT\', \'PC_우측_이마트\' ); }catch(_e){ }');"><a href='/wcms_ad.php?ads_idx=23' target='_blank'><img src='/upload/ads/2021/09/15/b70b38f28c082abd50ee4dfaa7337040.jpg' width='270' height='64' /></a></div>
+<!-- 배너 관리 23번 끝 -->
+
+
+
+<div class="h20"></div>
+<!-- 배너 관리 458번 시작 -->
+<div class="wcms_banner banner_slide" id="458" title="아진산업" onmousedown="eval('try{ _trk_clickTrace( \'EVT\', \'PC_우측_아진산업\' ); }catch(_e){ }');"><a href='/wcms_ad.php?ads_idx=465' target='_blank'><img src='/upload/ads/2023/05/10/f8b2852cbda18aeca2ea155e7c65f1ec.jpg' width='270' height='75' /></a></div>
+<!-- 배너 관리 458번 끝 -->
+
+
+
+<div class="h20"></div>
+<!-- 기사리스트 006 시작 -->
+<div class="arl_box_wrap">
+    <div class="arl_006">
+        <h2 class="head_title">
+            <a href="#">이슈&뉴스</a>
+        </h2>
+        <ul id="main_side2" class="wcms_outline" control_type="M" paging_yn="N" dataset_filename="2021/09/14/12_169_1_main_side2.json" step="1"><li>
+                <div class="thumb">
+                    <a href="/page/view/2023051012183326470">
+                        <img src="https://news.imaeil.com/photos/2023/04/11/2023041112223990964_l.jpg" alt="전두환 부인 이순자, 손자에게 "주제 넘게 나서지 마"">
+                    </a>
+                </div>
+                <div class="box">
+                    <div class="box_inner">
+                        <p class="title">
+                            <a href="/page/view/2023051012183326470">전두환 부인 이순자, 손자에게 "주제 넘게 나서지 마"</a>
+                        </p>
+                    </div>
+                </div>
+            </li><li>
+                <div class="thumb">
+                    <a href="/page/view/2023051015014613603">
+                        <img src="https://news.imaeil.com/photos/2023/05/10/2023051014591396118_l.jpg" alt="민노총 간부가 받은 北 지령문, 김정은을 '총회장님' 지칭">
+                    </a>
+                </div>
+                <div class="box">
+                    <div class="box_inner">
+                        <p class="title">
+                            <a href="/page/view/2023051015014613603">민노총 간부가 받은 北 지령문, 김정은을 '총회장님' 지칭</a>
+                        </p>
+                    </div>
+                </div>
+            </li><li>
+                <div class="thumb">
+                    <a href="/page/view/2023051011151608801">
+                        <img src="https://news.imaeil.com/photos/2022/10/17/2022101715123875787_l.jpg" alt="'○○님 나갔습니다' 단톡방 알림 없이 조용히 나간다">
+                    </a>
+                </div>
+                <div class="box">
+                    <div class="box_inner">
+                        <p class="title">
+                            <a href="/page/view/2023051011151608801">'○○님 나갔습니다' 단톡방 알림 없이 조용히 나간다</a>
+                        </p>
+                    </div>
+                </div>
+            </li><li>
+                <div class="thumb">
+                    <a href="/page/view/2023051008183311450">
+                        <img src="https://news.imaeil.com/photos/2023/04/19/2023041916260625259_l.jpg" alt="'아이스크림 도둑' 초등생 얼굴 공개한 무인점포 사장">
+                    </a>
+                </div>
+                <div class="box">
+                    <div class="box_inner">
+                        <p class="title">
+                            <a href="/page/view/2023051008183311450">'아이스크림 도둑' 초등생 얼굴 공개한 무인점포 사장</a>
+                        </p>
+                    </div>
+                </div>
+            </li><li>
+                <div class="thumb">
+                    <a href="/page/view/2023051015474749115">
+                        <img src="https://news.imaeil.com/photos/2023/05/10/2023051015553737026_l.jpg" alt="무단횡단 보행자와 부딪힌 택시…"내게 책임 물어 억울"">
+                    </a>
+                </div>
+                <div class="box">
+                    <div class="box_inner">
+                        <p class="title">
+                            <a href="/page/view/2023051015474749115">무단횡단 보행자와 부딪힌 택시…"내게 책임 물어 억울"</a>
+                        </p>
+                    </div>
+                </div>
+            </li></ul>
+    </div>
+</div>
+<!-- 기사리스트 006 끝 -->
+
+
+
+<div class="h20"></div>
+<!-- 배너 관리 457번 시작 -->
+<div class="wcms_banner banner_slide" id="457" title="대구대학교" onmousedown="eval('try{ _trk_clickTrace( \'EVT\', \'PC_우측_대구대학교\' ); }catch(_e){ }');"><a href='/wcms_ad.php?ads_idx=464' target='_blank'><img src='/upload/ads/2023/05/08/8350aad032be86f502552cf1004a4e17.gif' width='270' height='75' /></a></div>
+<!-- 배너 관리 457번 끝 -->
+
+
+
+
+<div class="h20"></div>
+<!-- 배너 관리 436번 시작 -->
+<div class="wcms_banner banner_slide" id="436" title="2023어린이그림엽서공모전" onmousedown="eval('try{ _trk_clickTrace( \'EVT\', \'PC_우측_2023어린이그림엽서공모전\' ); }catch(_e){ }');"><a href='/wcms_ad.php?ads_idx=443' target='_blank'><img src='/upload/ads/2023/04/06/0a0208024076340368e4724cb3cb87e8.jpg' width='270' height='75' /></a></div>
+<!-- 배너 관리 436번 끝 -->
+
+
+
+
+
+<!-- <div class="h30"></div> -->
+<!-- 기사리스트 007 시작 -->
+<!-- <div class="arl_007">
+    <h2 class="head_title">
+        <a href="#">사업 / 행사</a>
+    </h2>
+    <div class="box">
+        <ul style="max-height: 155px; overflow: hidden;">
+            <li><div class="thumb"><a href="http://a.imaeil.com/ev2/kids/" target="_blank"><img src="https://news.imaeil.com/upload/etc/2023/04/18/22f5250194598d16fa970e26e18f27c9.jpg" /></a></div></li><li><div class="thumb"><a href="http://a.imaeil.com/ev2/postcard/index.html" target="_blank"><img src="https://news.imaeil.com/upload/etc/2023/04/06/be9f607b101f180b687846fd0f64a9cb.jpg" /></a></div></li><li><div class="thumb"><a href="http://a.imaeil.com/mg/" target="_blank"><img src="https://news.imaeil.com/upload/etc/2023/03/08/fd4afaed943b53ffb55a7cbf89e8f8f9.png" /></a></div></li><li><div class="thumb"><a href="http://a.imaeil.com/ev3/sbNews/MaeilTopLeaders_20/index.html" target="_blank"><img src="https://news.imaeil.com/upload/etc/2023/02/22/9ae3635e172e2a784bc06dd4fb7af4e9.png" /></a></div></li><li><div class="thumb"><a href="http://a.imaeil.com/event/2022/bigEvent2/main.html" target="_blank"><img src="https://news.imaeil.com/upload/etc/2022/11/18/06472b927ec7413a9969432b063678c7.jpg" /></a></div></li>        </ul>
+        <div class="controls">
+            <div class="arw_prev">
+                <img src="/assets/images/common/arl_007_prev.png" alt="이전">
+            </div>
+            <div class="arw_next">
+                <img src="/assets/images/common/arl_007_next.png" alt="다음">
+            </div>
+        </div>
+    </div>
+</div> -->
+<!-- 기사리스트 007 끝 -->
+
+<div class="h10"></div>
+<div class="h20"></div><div class="comment_art">    <h2>댓글 많은 뉴스</h2>    <ul>        <li>            <div class="thumb">                <a href="/page/view/2023050813424464903">                    <img src="https://news.imaeil.com/photos/2023/05/08/2023050813432254139_m.jpg" alt="썸네일">                </a>            </div>            <div class="box">                <div class="cmt_cnt"><span>7</span></div>                <p class="title"><a href="/page/view/2023050813424464903">'카톡이 또'…점심시간 한때 송·수신 장애</a></p>            </div>        </li>        <li>            <div class="box">                <div class="cmt_cnt"><span>6</span></div>                <p class="title"><a href="/page/view/2023050815433521587">尹대통령 취임 1년…'비정상의 정상화' 저항 뚫고 국정혁신 달렸다</a></p>            </div>        </li>        <li>            <div class="box">                <div class="cmt_cnt"><span>6</span></div>                <p class="title"><a href="/page/view/2023051010424989227">'평산책방 사업자' 논란…문재인, 개인 명의 사업자는 폐업</a></p>            </div>        </li>        <li>            <div class="box">                <div class="cmt_cnt"><span>6</span></div>                <p class="title"><a href="/page/view/2023051015384197918">홍준표 시장·이재명 대표 '대구 회동'…달빛철도 조기 착공·국비 확보 동행</a></p>            </div>        </li>        <li>            <div class="box">                <div class="cmt_cnt"><span>4</span></div>                <p class="title"><a href="/page/view/2023051022565971683">與 윤리위, 김재원 총선 공천 막고 태영호는 살렸다</a></p>            </div>        </li>    </ul></div>
+
+
+
+<div class="h20"></div>
+<!-- 배너 관리 427번 시작 -->
+<div class="wcms_banner banner_slide" id="427" title="2023사진UCC공모전" onmousedown="eval('try{ _trk_clickTrace( \'EVT\', \'PC_우측_2023사진UCC공모전\' ); }catch(_e){ }');"><a href='/wcms_ad.php?ads_idx=434' target='_blank'><img src='/upload/ads/2023/03/27/5df6fe06e1db59fded122b16e701b977.jpg' width='270' height='75' /></a></div>
+<!-- 배너 관리 427번 끝 -->
+
+
+<div class="h20"></div>
+<!-- 배너 관리 426번 시작 -->
+<div class="wcms_banner banner_slide" id="426" title="사투리UCC백일장" onmousedown="eval('try{ _trk_clickTrace( \'EVT\', \'PC_우측_사투리UCC백일장\' ); }catch(_e){ }');"><a href='/wcms_ad.php?ads_idx=433' target='_blank'><img src='/upload/ads/2023/03/27/a4632a2241bd09fb7472b87907a303d8.jpg' width='270' height='75' /></a></div>
+<!-- 배너 관리 426번 끝 -->
+
+
+
+
+
+<div class="h20"></div>
+<!-- 기사리스트 006 시작 -->
+<div class="arl_box_wrap">
+    <div class="arl_006">
+        <h2 class="head_title">
+            <a href="#">완독률이 높은 뉴스</a>
+        </h2>
+        <ul><li><p class="title"><a href="/page/view/2023050810210435682">[주간 전망] 삼성, 한화와 3연전 총력전 펴야 하는 이유</a></p></li><li><p class="title"><a href="/page/view/2023050915442147611">[단독]울릉공항에 브라질산 소형 여객기 뜨나…경북도-엠브레어 시범 비행 추진</a></p></li><li><p class="title"><a href="/page/view/2023050514584675113">살아남기 위해 대학 통합 급물살…영남대+영남이공대 신호탄</a></p></li><li><p class="title"><a href="/page/view/2023050600083545767">지역大 통합 이어 구조조정 '생존 사활'…일부 학과 신입생 모집 안 한다</a></p></li><li><p class="title"><a href="/page/view/2023050919525833842">대통령실 행정관 출신 유명 女변호사, 도산대로서 접촉 사고 후 포르쉐 놔두고 도주 정황</a></p></li></ul>
+    </div>
+</div>
+<!-- 기사리스트 006 끝 -->
+
+
+
+
+
+<div class="h20"></div>
+<!-- 배너 관리 409번 시작 -->
+<div class="wcms_banner banner_slide" id="409" title="2023매일명감" onmousedown="eval('try{ _trk_clickTrace( \'EVT\', \'PC_우측_2023매일명감\' ); }catch(_e){ }');"><a href='/wcms_ad.php?ads_idx=416' target='_blank'><img src='/upload/ads/2023/03/08/489d3c37c8e526f68ccb40520d1340b9.jpg' width='270' height='75' /></a></div>
+<!-- 배너 관리 409번 끝 -->
+
+
+
+
+<div class="h20"></div>
+<!-- 기사리스트 008 시작 -->
+ <div class="side_digital_plus">
+    <div class="top">
+        <h2 class="head_title">
+            <a href="#">디지털 플러스</a>
+            <span class="more"><a href="/digital_plus">더보기</a></span>
+        </h2>
+    </div>
+    <div class="box">
+        <ul>
+            <li><div class="thumb"><a href="http://a.imaeil.com/ev3/sbNews/MZcafe/" target="_blank"><img src="https://news.imaeil.com/upload/etc/2023/05/03/9f921007977badb8161d070373704d66.jpg" /></a></div><p class="title"><a href="http://a.imaeil.com/ev3/sbNews/MZcafe/" target="_blank">‘그곳’이 알고 싶다! MZ가 픽한 ‘대구 카페’</a></p></li><li><div class="thumb"><a href="http://a.imaeil.com/ev3/sbNews/voicephishing/" target="_blank"><img src="https://news.imaeil.com/upload/etc/2023/03/07/6d9369564f85ecd10c6cff53e3532d90.jpg" /></a></div><p class="title"><a href="http://a.imaeil.com/ev3/sbNews/voicephishing/" target="_blank">보이스피싱 &#39;그놈들&#39;, 당신의 방심을 노린다</a></p></li><li><div class="thumb"><a href="http://a.imaeil.com/ev3/sbNews/2023daegu/index.html" target="_blank"><img src="https://news.imaeil.com/upload/etc/2023/02/08/ec6c8ca4bc961d359a1fa08d1cd3e750.jpg" /></a></div><p class="title"><a href="http://a.imaeil.com/ev3/sbNews/2023daegu/index.html" target="_blank">&#39;대구시 혜택&#39; 미리 알고 마음껏 누리자!</a></p></li><li><div class="thumb"><a href="http://a.imaeil.com/ev3/sbNews/kiosk/index.html" target="_blank"><img src="https://news.imaeil.com/upload/etc/2023/01/19/a7ac3802b68d11cfe56894673c1a7d66.jpg" /></a></div><p class="title"><a href="http://a.imaeil.com/ev3/sbNews/kiosk/index.html" target="_blank">깊어지는 디지털 격차... &quot;키오스크가 너무해&quot;</a></p></li><li><div class="thumb"><a href="http://a.imaeil.com/ev3/sbNews/kickboard2/index.html" target="_blank"><img src="https://news.imaeil.com/upload/etc/2023/01/16/02efea06f739f52de29ce15af8169aa7.jpg" /></a></div><p class="title"><a href="http://a.imaeil.com/ev3/sbNews/kickboard2/index.html" target="_blank">무면허·노헬멧까지... 전동&#39;킬&#39;보드를 피하라!</a></p></li><li><div class="thumb"><a href="http://a.imaeil.com/ev3/sbNews/Lav/" target="_blank"><img src="https://news.imaeil.com/upload/etc/2022/12/08/c02874f7dfa855cd81563456fd0a2cee.png" /></a></div><p class="title"><a href="http://a.imaeil.com/ev3/sbNews/Lav/" target="_blank">당신의 문해력·어휘력, 안녕하신가요?</a></p></li><li><div class="thumb"><a href="http://a.imaeil.com/ev3/sbNews/Plasticbottle/" target="_blank"><img src="https://news.imaeil.com/upload/etc/2022/01/19/37f53976f9f676558e893f8d445d8ea9.png" /></a></div><p class="title"><a href="http://a.imaeil.com/ev3/sbNews/Plasticbottle/" target="_blank">근무복이 된 &#39;페트병&#39;?...무궁무진한 그 세계로!</a></p></li><li><div class="thumb"><a href="http://a.imaeil.com/ev3/sbNews/Zero_Waste/" target="_blank"><img src="https://news.imaeil.com/upload/etc/2021/11/01/de1254c72f6ad4bb307e2ba5a4a9f8f6.jpg" /></a></div><p class="title"><a href="http://a.imaeil.com/ev3/sbNews/Zero_Waste/" target="_blank">쓰레기 추가 되는 소리, 오늘도 울려 퍼졌다</a></p></li><li><div class="thumb"><a href="http://a.imaeil.com/ev3/sbNews/Dog_bite_accident/" target="_blank"><img src="https://news.imaeil.com/upload/etc/2021/11/01/a853a7347cfc96bed42c8a170875ac5e.jpg" /></a></div><p class="title"><a href="http://a.imaeil.com/ev3/sbNews/Dog_bite_accident/" target="_blank">&quot;우리 개는 안 물어요&quot;...몇 초 뒤 물렸다.</a></p></li><li><div class="thumb"><a href="http://a.imaeil.com/ev3/sbNews/investment_craze/" target="_blank"><img src="https://news.imaeil.com/upload/etc/2021/11/01/bb52b7b0015b17833794578f5f0e404e.jpg" /></a></div><p class="title"><a href="http://a.imaeil.com/ev3/sbNews/investment_craze/" target="_blank">대한민국에 불어온 투자열풍</a></p></li><li><div class="thumb"><a href="http://a.imaeil.com/interactive/galaxy/" target="_blank"><img src="https://news.imaeil.com/upload/etc/2021/09/14/712c4610f57fb9e677b4108268e10c90.jpg" /></a></div><p class="title"><a href="http://a.imaeil.com/interactive/galaxy/" target="_blank">희망의 빛, 독자분들과 함께 찾겠습니다.</a></p></li><li><div class="thumb"><a href="http://a.imaeil.com/interactive/bigdata01/" target="_blank"><img src="https://news.imaeil.com/upload/etc/2021/09/14/e65ea823ef834dda39c870e234717614.jpg" /></a></div><p class="title"><a href="http://a.imaeil.com/interactive/bigdata01/" target="_blank">당신의 지갑은 이 역에서 열린다.</a></p></li><li><div class="thumb"><a href="http://a.imaeil.com/interactive/date.html" target="_blank"><img src="https://news.imaeil.com/upload/etc/2021/09/14/c4ad902ee3f2d6d1d0aef6984a365998.jpg" /></a></div><p class="title"><a href="http://a.imaeil.com/interactive/date.html" target="_blank">데이트폭력 사건일지</a></p></li><li><div class="thumb"><a href="http://a.imaeil.com/interactive/daefrica.html" target="_blank"><img src="https://news.imaeil.com/upload/etc/2021/09/14/cf97d9225d68efa14cdfc974f412114e.jpg" /></a></div><p class="title"><a href="http://a.imaeil.com/interactive/daefrica.html" target="_blank">대프리카 탈출하기</a></p></li>        </ul>
+        <div class="controls">
+            <div class="arw_prev">
+                <img src="/assets/images/common/arl_007_prev.png" alt="이전">
+            </div>
+            <div class="arw_next">
+                <img src="/assets/images/common/arl_007_next.png" alt="다음">
+            </div>
+        </div>
+    </div>
+</div> 
+<!-- 기사리스트 008 끝 -->
+
+
+
+
+<!-- <div class="h25"></div> -->
+<!-- 배너 관리 28번 시작 -->
+<!-- <div class="wcms_banner banner_slide" id="28" title="포토갤러리" onMouseDown="eval('try{ _trk_clickTrace( \'EVT\', \'PC_우측_포토갤러리\' ); }catch(_e){ }');"> </div> -->
+<!-- 배너 관리 28번 끝 -->
+
+<!--  <div class="h5"></div>  -->
+<!-- 배너 관리 29번 시작 -->
+<!-- <div class="wcms_banner banner_slide" id="29" title="야간진료/긴급상담" onMouseDown="eval('try{ _trk_clickTrace( \'EVT\', \'PC_우측_야간진료/긴급상담\' ); }catch(_e){ }');"> </div>-->
+<!-- 배너 관리 29번 끝 -->
+
+<!--  <div class="h5"></div>  -->
+<!-- 배너 관리 9번 시작 -->
+<!-- <div class="wcms_banner banner_slide" id="9" title="무지개세상" onMouseDown="eval('try{ _trk_clickTrace( \'EVT\', \'PC_우측_무지개세상\' ); }catch(_e){ }');">
+</div>-->
+<!-- 배너 관리 9번 끝 -->
+<style>
+.aside {float: left;width: 291px ;padding-left: 20px;border-left: 1px solid #eee;margin-left: -1px;}
+.side_banner {width: 270px; height:auto;}
+.arl_005 {width: 100%;counter-reset: arl_005;}
+.arl_005 h2 {font-size: 14px;font-weight: 500;margin-top: 2px;margin-bottom: 6px;color: #333;}
+.arl_005 ul li {position: relative;height: 30px;}
+.arl_005 ul li a {overflow: hidden;text-overflow: ellipsis;white-space: nowrap;display: block;font-size: 14px;height: 30px;color: #666;line-height: 30px;}
+.arl_005 ul li a:before {counter-increment: arl_005;content: counter(arl_005);width: 23px;display: inline-block;font-size: 14px;color: #666;line-height: 30px;vertical-align: top;}
+.arl_005 ul li:nth-child(n+6) a {color: #999;}
+.arl_005 ul li:nth-child(n+6) a:before {color: #999;}
+/* 기사리스트 005 끝 */
+/* 기사리스트 006 시작 */
+.arl_006 h2.head_title {font-size: 14px;color: #333;font-weight: 500;margin-bottom: 3px;}
+.arl_006 h2.head_title a {display: inline-block;color: #333;line-height: 15px;}
+.arl_006 ul li {padding-bottom: 12px;border-bottom: 1px solid #eee;padding-top: 12px;}
+.arl_006 ul li::after{content:''; display:block ; clear:both;}
+.arl_006 ul li:last-child {padding-bottom: 0;border-bottom: 0;}
+.arl_006 ul li .thumb{
+     float: right;
+    width: 60px;
+    height: 60px;
+    border: 1px solid #efefef;
+    margin-left: 8px;
+    overflow: hidden;
+}
+.arl_006 ul li .thumb a{display:inline-block; width:100%; height:100%;}
+.arl_006 ul li .thumb a img{width:100%; height:100%;}
+.arl_006 ul li .box {overflow: hidden;display: table;height: 60px;}
+.arl_006 ul li .box .box_inner {display: table-cell;vertical-align: middle;}
+.arl_006 ul li .box .box_inner .title {font-size: 14px;line-height: 21px;height:auto;max-height: 42px;overflow: hidden;}
+.arl_006 ul li .box .box_inner .title a {color: #666;}
+/* 기사리스트 006 끝 */
+/* 기사리스트 007 시작 */
+.arl_007 h2.head_title {font-size: 14px;color: #333;font-weight: 500;margin-bottom: 15px;}
+.arl_007 h2.head_title a {display: inline-block;color: #333;line-height: 15px;}
+.arl_007 h2.head_title:after {margin: 0 0 0 6px;line-height: 15px;content: '';display: inline-block;width: 6px;height: 9px;vertical-align: baseline;background: url(../images/skin_img/arl_007_arw.png) 0 0 no-repeat;}
+.arl_007 .box {position: relative;width: 270px;height: 155px;}
+.arl_007 .box ul li .thumb {width: 270px;height: 155px;overflow: hidden;}
+.arl_007 .box ul li .thumb img {display: block;width: 100%;height: 100%;}
+.arl_007 .box .controls .arw_prev {position: absolute;left: 0;top: 50%;-webkit-transform: translateY(-50%);transform: translateY(-50%);cursor: pointer;}
+.arl_007 .box .controls .arw_next {position: absolute;right: 0;top: 50%;-webkit-transform: translateY(-50%);transform: translateY(-50%);cursor: pointer;}
+/* 기사리스트 007 끝 */
+/* 기사리스트 008 시작 */
+.arl_008 h2.head_title {font-size: 14px;color: #333;font-weight: 500;margin-bottom: 14px;}
+.arl_008 h2.head_title a {display: inline-block;color: #333;line-height: 15px;}
+.arl_008 ul li {margin-bottom: 7px;}
+.arl_008 ul li:last-child {margin-bottom: 0;}
+.arl_008 ul li .thumb {width: 100%;max-width: 270px;height: 220px;overflow: hidden;}
+.arl_008 ul li .thumb img {display: block;width: 100%;height: 100%;border: 1px solid #eee;}
+/* 코로나 현황 시작 */
+.corona_wrap {background:url(/assets/images/common/corona.jpg) 0 0 no-repeat; width:270px; height:60px; padding:9px 0 0 0;}
+.corona_wrap .title {font-size:15px; color:#ff4856; font-weight:600; text-align:center;}
+.corona_wrap .date {font-size:12px; color:#fff; font-weight:300;}
+.corona_wrap ul {text-align:center;}
+.corona_wrap ul li {display: inline-block; font-size:13px; color:#fff; margin-top:9px; padding: 0 5px;}
+.corona_wrap ul li span {font-weight:bold;}
+/* 코로나 현황 끝 */
+/* 많이 본 뉴스 시작 */
+.ranknews {border:1px solid #e8e8e8; width:100%; padding:15px;}
+.ranknews .top {position:relative;}
+.ranknews .top h2 {font-size:14px; color:#333; font-weight:400;}
+.ranknews .top .more {font-size:13px; color:#888; position:absolute; top:0; right:0;}
+.ranknews .top .more a {color:#888;}
+.ranknews .ranknews_tab {padding-top:5px; margin-top:5px;}
+.ranknews .ranknews_tab > div {cursor:pointer; font-size:15px; padding:5px 0; margin-left:-1px; border:1px solid #e8e8e8; color:#333; float:left; width:33.333%; text-align:center;}
+.ranknews .ranknews_tab > div.on {background:#bababa; border:1px solid #bababa; color:#fff;}
+.ranknews .ranknews_tab:after {content:''; display:block; clear:both;}
+.ranknews .list_wrap .box:first-child {display:block;}
+.ranknews .list_wrap .box {display:none;}
+.ranknews .box ul {counter-reset:section; max-height:150px; overflow:hidden;}
+.ranknews .box.on ul {max-height:300px;}
+.ranknews .box ul:after {content:''; display:block; clear:both;}
+.ranknews .box ul li {position:relative; font-size:14px; padding-left:25px; line-height:30px; color:#333; overflow:hidden; text-overflow:ellipsis; white-space:nowrap;}
+.ranknews .box ul li a {color:#666; letter-spacing:-1px;}
+.ranknews .box ul li:before {content:counter(section); counter-increment:section; position:absolute; left:0; text-align:center; width:20px;}
+.ranknews .box ul li:after {content:''; display:block; clear:both;}
+.ranknews .more {cursor:pointer; border:1px solid #e8e8e8; text-align:center; font-size:14px; color:#333; line-height:30px;}
+/* 많이 본 뉴스 끝 */
+/*디지털 플러스 시작*/
+.side_digital_plus {width:270px;}
+.side_digital_plus .top {position:relative; margin-bottom:10px;}
+.side_digital_plus .top h2 > a {font-size:19px; font-weight:500; color:#333; vertical-align: top;}
+.side_digital_plus .top .more {font-size:14px; color:#999; position:absolute; top:5px; right:0;}
+.side_digital_plus .top .more a {color:#999;}
+.side_digital_plus ul li {margin-bottom: 7px;}
+.side_digital_plus ul li:last-child {margin-bottom: 0;}
+.side_digital_plus ul li .thumb {width: 100%;max-width: 270px;height: 180px;overflow: hidden;}
+.side_digital_plus ul li .thumb img {display: block;width: 100%;height: 100%;border: 1px solid #eee;}
+.side_digital_plus .box {position: relative;width: 270px;height: 240px;}
+.side_digital_plus .box ul li .thumb {width: 100%;height: 220px;overflow: hidden;}
+.side_digital_plus .box ul li .thumb img {display: block;width: 100%;height: 100%;}
+.side_digital_plus .box ul li .title {font-size: 15px; line-height:20px;font-weight: 500;margin-top: 6px;text-overflow: ellipsis;white-space: nowrap;overflow: hidden;}
+.side_digital_plus .box ul li .title a {color: #333;}
+.side_digital_plus .box .controls .arw_prev {position: absolute;left: 0;top: 50%;-webkit-transform: translateY(-50%);transform: translateY(-50%);cursor: pointer;}
+.side_digital_plus .box .controls .arw_next {position: absolute;right: 0;top: 50%;-webkit-transform: translateY(-50%);transform: translateY(-50%);cursor: pointer;}
+/*디지털 플러스 끝*/
+/* 댓글 많은 뉴스 시작 */
+.comment_art h2 {
+    font-size: 14px;
+    color: #333;
+    font-weight: 500;
+    margin-bottom: 10px;
+}
+.comment_art ul {
+    counter-reset: comment_art;
+}
+.comment_art ul li:first-child .thumb {
+    display: block;
+}
+.comment_art ul li:first-child .box {
+    background: #b51a1a;
+}
+.comment_art ul li:first-child .box:hover {
+    background: #a91616;
+}
+.comment_art ul li:first-child .box:after {
+    color: #fff;
+}
+.comment_art ul li:first-child .box .title a {
+    color: #fff;
+}
+.comment_art ul li:first-child .box .cmt_cnt:before {
+    background: url(/assets/images/common/icon_cmt3_w.png) 0 0 no-repeat;
+}
+.comment_art ul li:first-child .box .cmt_cnt span {
+    color: #fff;
+}
+.comment_art ul li .thumb {
+    display: none;
+    width: 100%;
+    height: 180px;
+}
+.comment_art ul li .thumb img {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+.comment_art ul li .box {
+    position: relative;
+    padding: 10px 0;
+    border-bottom: 1px solid #e9e9e9;
+}
+.comment_art ul li .box:after {
+    content: '';
+    clear: both;
+    display: block;
+}
+.comment_art ul li .box:after {
+    display: block;
+    content: '1';
+    counter-increment: comment_art;
+    content: counter(comment_art);
+    position: absolute;
+    top: 7px;
+    left: 0;
+    width: 50px;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 500;
+    color: #000;
+    line-height: 26px;
+}
+.comment_art ul li .box .cmt_cnt {
+    position: absolute;
+    left: 0;
+    width: 50px;
+    text-align: center;
+    top: 35px;
+}
+.comment_art ul li .box .cmt_cnt:before {
+    content: '';
+    display: inline-block;
+    width: 15px;
+    height: 13px;
+    background: url(/assets/images/common/icon_cmt3.png) 0 0 no-repeat;
+    line-height: 17px;
+    vertical-align: middle;
+}
+.comment_art ul li .box .cmt_cnt span {
+    display: inline-block;
+    font-size: 13px;
+    line-height: 17px;
+    color: #000;
+    vertical-align: middle;
+    padding-left: 4px;
+}
+.comment_art ul li .box .title {
+    padding-left: 60px;
+}
+.comment_art ul li .box .title a {
+    display: block;
+    color: #000;
+    font-size: 14px;
+    line-height: 20px;
+    height: 40px;
+    overflow: hidden;
+}
+/* 댓글 많은 뉴스 끝 */</style></div>
+    </div>
+    <!-- 사이드 끝 -->
+</div>
+<div class="h55"></div>
+<script>
+    Kakao.init('a84d140cdaffb40312ce4bef89e3e0e3');
+    Kakao.Link.createDefaultButton({
+        container: '#kakao-link-btn',
+        objectType: 'feed',
+        content: {
+            title: '[전문] 윤석열 대통령 미 의회 연설문 한글·영문 버전',
+            description: '미국을 국빈 방문 중인 윤석열 대통령이 27일(현지시간) 워...',
+            imageUrl: 'https://news.imaeil.com/photos/2023/04/28/2023042801340563912_l.jpg',
+            link: {
+                mobileWebUrl: 'https://mnews.imaeil.com/page/view/2023042801345397733',
+                webUrl: 'https://news.imaeil.com/page/view/2023042801345397733'
+            }
+        }
+    });
+</script>
+<style>
+.arl_014 h2.head_title {
+  font-size: 20px;
+  color: #333;
+  font-weight: 600;
+  margin-bottom: 21px;
+}
+
+.arl_014 h2.head_title a {
+  display: inline-block;
+  color: #333;
+  line-height: 20px;
+}
+
+.arl_014 ul:after {
+  content: '';
+  clear: both;
+  display: block;
+}
+
+.arl_014 ul li {
+  float: left;
+  width: 50%;
+  padding-right: 10px;
+}
+
+.arl_014 ul li .title {
+  font-size: 18px;
+  width: 100%;
+  position: relative;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.arl_014 ul li .title:before {
+  position: absolute;
+  top: 12px;
+  left: 0;
+  content: '';
+  width: 8px;
+  height: 8px;
+  display: block;
+  background: url(/assets/images/common/arl_014_under.png) 0 0 no-repeat;
+}
+
+.arl_014 ul li .title a {
+  padding-left: 17px;
+  vertical-align: middle;
+  line-height: 35px;
+  color: #333;
+}
+
+/* 기사리스트 014 끝 */
+/* 기사리스트 015 시작 */
+.arl_015 h2.head_title {
+  font-size: 20px;
+  color: #333;
+  font-weight: 600;
+  margin-bottom: 21px;
+}
+
+.arl_015 h2.head_title a {
+  display: inline-block;
+  color: #333;
+  line-height: 20px;
+}
+
+.arl_015 ul:after {
+  content: '';
+  clear: both;
+  display: block;
+}
+
+.arl_015 ul li {
+  float: left;
+  width: 50%;
+  padding-right: 10px;
+}
+
+.arl_015 ul li .title {
+  font-size: 18px;
+  width: 100%;
+  position: relative;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.arl_015 ul li .title:before {
+  position: absolute;
+  top: 17px;
+  left: 0;
+  content: '';
+  width: 4px;
+  height: 3px;
+  display: block;
+  background: url(/assets/images/common/arl_015_dot.png) 0 0 no-repeat;
+}
+
+.arl_015 ul li .title a {
+  padding-left: 11px;
+  vertical-align: middle;
+  line-height: 35px;
+  color: #333;
+}
+
+/* 기사리스트 015 끝 */
+/* 기사리스트 016 시작 */
+.arl_016 h2.head_title {
+  font-size: 20px;
+  color: #111;
+  font-weight: 600;
+  margin-bottom: 31px;
+}
+
+.arl_016 h2.head_title a {
+  display: inline-block;
+  color: #111;
+  line-height: 20px;
+}
+
+.arl_016 ul li {
+  margin-bottom: 15px;
+}
+
+.arl_016 ul li:after {
+  content: '';
+  clear: both;
+  display: block;
+}
+
+.arl_016 ul li:last-child {
+  margin-bottom: 0;
+}
+
+.arl_016 ul li .thumb {
+  float: left;
+  width: 180px;
+  height: 100px;
+  margin-right: 20px;
+  overflow: hidden;
+}
+
+.arl_016 ul li .thumb img {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
+.arl_016 ul li .title {
+  font-size: 18px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  margin-bottom: 15px;
+}
+
+.arl_016 ul li .title a {
+  color: #333;
+}
+
+.arl_016 ul li .body {
+  line-height: 21px;
+  max-height: 63px;
+  overflow: hidden;
+  font-size: 14px;
+}
+
+.arl_016 ul li .body a {
+  color: #999;
+}
+
+/* 기사리스트 016 끝 */
+/* 기사리스트 017 시작 */
+.arl_017 h2.head_title {
+  font-size: 20px;
+  color: #111;
+  font-weight: 600;
+  margin-bottom: 31px;
+}
+
+.arl_017 h2.head_title a {
+  display: inline-block;
+  color: #111;
+  line-height: 20px;
+}
+
+.arl_017 ul {
+  margin: 0 -10px;
+}
+
+.arl_017 ul:after {
+  content: '';
+  clear: both;
+  display: block;
+}
+
+.arl_017 ul li {
+  padding: 0 10px;
+  margin-bottom: 28px;
+  width: 33.333%;
+  float: left;
+}
+
+.arl_017 ul li .thumb {
+  width: 100%;
+  height: 158px;
+  margin-bottom: 10px;
+  overflow: hidden;
+}
+
+.arl_017 ul li .thumb img {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
+.arl_017 ul li .title {
+  font-size: 18px;
+  line-height: 27px;
+  height: 54px;
+  overflow: hidden;
+}
+
+.arl_017 ul li .title a {
+  color: #333;
+}
+
+.wb_left {
+height:3000px;
+}
+
+.article_view .article_content .subtitle {
+    font-weight: 500;
+}
+
+ .media_box {
+   margin-bottom: 1.7em;
+}
+.media_box > div:nth-child(3) {
+max-width: 100%;
+    font-size: 13px;
+    color: #888;
+    display: block;
+    line-height: 17px;
+    padding: 10px;
+    background-color: #F2F2F2;
+}
+.art_mid_ad {
+    clear:both;
+    width: 670px;
+    margin: 0 auto;
+}
+.art_mid_ad:after {content:''; clear:both; display:block;}
+.article_view .article_content .view_img {padding:0; margin:0 auto; max-width:100%; margin-bottom:1.7em;}
+.article_view .article_content .view_img img {width:100%;}
+.article_view .article_content .view_img.img_left {float: left;margin: 10px 24px 24px 0; }
+.article_view .article_content .view_img.img_right {float: right;  margin: 10px 0 24px 24px; }
+.article_view .article_content .view_img .caption {max-width: 100%;font-size: 13px;color: #888;display: block;line-height: 17px;padding: 10px;background-color: #F2F2F2;}
+</style>    </div>
+    <script>
+            </script>
+    <style>/**/
+/* 푸터 시작*/
+#footer {border-top:1px solid #e0e0e0;}
+#footer .inner {margin:0 auto;padding:30px 0 30px;width:1180px}
+#footer .inner:after {content:"";clear:both;display:block}
+#footer .inner .f_logo {margin-right:60px;margin-top:70px; float:left; width:180px; height:40px;}
+#footer .inner .f_logo a{display:inline-block; width:100%; height:100%;}
+#footer .inner .f_logo img {display:block; width:100%; height:100%;}
+#footer .inner .info {float:left;}
+#footer .inner .info .services:after {content:"";clear:both;display:block}
+#footer .inner .info .services li {float:left; margin-bottom:20px; padding-right:15px; line-height:25px;}    
+#footer .inner .info .services li:last-child {padding-right:0;}
+#footer .inner .info .services li a {color:#666; font-size:15px; letter-spacing:-0.05em}
+#footer .inner .info .company_info {font-size:14px; font-weight:400; line-height:27px;color:#b3b3b3; font-weight:300;}
+#footer .inner .info .copyright {font-size:14px; font-weight:400; line-height:27px; color:#b3b3b3; font-weight:300;}
+#footer .inner .powered {clear:both; text-align:right; padding-top:30px;}
+/* 푸터 끝 */</style><div id="footer_site_map">
+    <!-- 사이트맵 시작 -->
+    <div class="bg_gray">
+        <div class="inner">
+            <div class="sitemap">
+                <ul>
+<li class="panel">
+    <p class="title"><a href="/latest_article" target="_self">최신기사</a></p>
+</li>
+<li class="panel">
+    <p class="title"><a href="/opinion" target="_self">오피니언</a></p>
+    <ul>
+        <li><a href="/editorial" target="_self">사설</a></li>
+        <li><a href="/within" target="_self">사내칼럼</a></li>
+        <li><a href="/outside" target="_self">사외칼럼</a></li>
+        <li><a href="/daily" target="_self">매일희평</a></li>
+    </ul>
+</li>
+<li class="panel">
+    <p class="title"><a href="/politics" target="_self">정치</a></p>
+    <ul>
+        <li><a href="/politics_general" target="_self">정치일반</a></li>
+        <li><a href="/area" target="_self">지역정가</a></li>
+        <li><a href="/sejong" target="_self">대통령실·세종</a></li>
+        <li><a href="/National_Assembly" target="_self">국회·정당</a></li>
+        <li><a href="/national_defense" target="_self">북한·국방</a></li>
+        <li><a href="/election" target="_self">선거</a></li>
+    </ul>
+</li>
+<li class="panel">
+    <p class="title"><a href="/economy" target="_self">경제</a></p>
+    <ul>
+        <li><a href="/economy_general" target="_self">경제일반</a></li>
+        <li><a href="/property" target="_self">부동산</a></li>
+        <li><a href="/finance" target="_self">금융·증권·보험</a></li>
+        <li><a href="/foundation" target="_self">기업·창업</a></li>
+        <li><a href="/apprehension" target="_self">구인·구직</a></li>
+        <li><a href="/vehicle" target="_self">IT·자동차</a></li>
+    </ul>
+</li>
+<li class="panel">
+    <p class="title"><a href="/society" target="_self">사회</a></p>
+    <ul>
+        <li><a href="/society_general" target="_self">사회일반</a></li>
+        <li><a href="/incident" target="_self">사건사고</a></li>
+        <li><a href="/court" target="_self">법원·검찰</a></li>
+        <li><a href="/education" target="_self">교육</a></li>
+        <li><a href="/the_report" target="_self">인사·화촉·모임·부음</a></li>
+        <li><a href="/neighbor" target="_self">이웃사랑</a></li>
+        <li><a href="/hot_news" target="_self">핫뉴스</a></li>
+    </ul>
+</li>
+<li class="panel">
+    <p class="title"><a href="/nations" target="_self">국제</a></p>
+    <ul>
+        <li><a href="/nations_general" target="_self">국제일반</a></li>
+        <li><a href="/america" target="_self">미국·중국·일본</a></li>
+        <li><a href="/topic" target="_self">해외토픽</a></li>
+    </ul>
+</li>
+<li class="panel">
+    <p class="title"><a href="/culture" target="_self">문화</a></p>
+    <ul>
+        <li><a href="/culture_general" target="_self">문화일반</a></li>
+        <li><a href="/music" target="_self">음악·공연</a></li>
+        <li><a href="/art" target="_self">미술·전시</a></li>
+        <li><a href="/literature" target="_self">문학·책</a></li>
+        <li><a href="/religion" target="_self">종교</a></li>
+    </ul>
+</li>
+<li class="panel">
+    <p class="title"><a href="/sport" target="_self">스포츠</a></p>
+    <ul>
+        <li><a href="/sport_general" target="_self">스포츠일반</a></li>
+        <li><a href="/baseball" target="_self">야구</a></li>
+        <li><a href="/football" target="_self">축구</a></li>
+        <li><a href="/basketball" target="_self">농구</a></li>
+        <li><a href="/golf" target="_self">골프</a></li>
+        <li><a href="/community_sport" target="_self">지역스포츠</a></li>
+    </ul>
+</li>
+<li class="panel">
+    <p class="title"><a href="/entertainment" target="_self">연예</a></p>
+    <ul>
+        <li><a href="/entertainment_general" target="_self">연예일반</a></li>
+        <li><a href="/movie" target="_self">영화</a></li>
+        <li><a href="/broadcasting" target="_self">방송·연예</a></li>
+    </ul>
+</li>
+<li class="panel">
+    <p class="title"><a href="/life" target="_self">라이프</a></p>
+    <ul>
+        <li><a href="/life_general" target="_self">라이프일반</a></li>
+        <li><a href="/festival" target="_self">여행·축제</a></li>
+        <li><a href="/taste" target="_self">맛</a></li>
+        <li><a href="/health" target="_self">건강</a></li>
+        <li><a href="/reader" target="_self">독자</a></li>
+        <li><a href="/fortune" target="_self">운세</a></li>
+    </ul>
+</li>
+<li class="panel">
+    <p class="title"><a href="/mstory" target="_self">포토·영상</a></p>
+    <ul>
+        <li><a href="/picture" target="_self">영상</a></li>
+        <li><a href="/photo" target="_self">포토</a></li>
+        <li><a href="/graphics" target="_self">그래픽</a></li>
+        <li><a href="/card_news" target="_self">카드뉴스</a></li>
+    </ul>
+</li>
+</ul>
+            </div>
+        </div>
+    </div>
+    <!-- 사이트맵 끝 -->
+    <!-- 파트너 시작 -->
+    <div class="inner">
+        <div class="partner_news">
+            <ul>
+                <li>
+                    <a href="/" target="_blank" title="매일신문"><img src="/assets/images/common/bn1.gif" alt="매일신문"></a>
+                </li>
+                <li>
+                    <a href="http://www.kwnews.co.kr/" target="_blank" title="강원일보"><img src="/assets/images/common/bn2.gif" alt="강원일보"></a>
+                </li>
+                <li>
+                    <a href="http://www.knnews.co.kr/autoi/index.html" target="_blank" title="경남신문"><img src="/assets/images/common/bn3.gif" alt="경남신문"></a>
+                </li>
+                <li>
+                    <a href="http://www.kyeongin.com/" target="_blank" title="경인일보"><img src="/assets/images/common/bn4.gif" alt="경인일보"></a>
+                </li>
+                <li>
+                    <a href="http://www.kwangju.co.kr/" target="_blank" title="광주일보"><img src="/assets/images/common/bn5.gif" alt="광주일보"></a>
+                </li>
+                <li>
+                    <a href="http://www.daejonilbo.com/" target="_blank" title="대전일보"><img src="/assets/images/common/bn6.gif" alt="대전일보"></a>
+                </li>
+                <li>
+                    <a href="http://www.busan.com/" target="_blank" title="부산일보"><img src="/assets/images/common/bn7.gif" alt="부산일보"></a>
+                </li>
+                <li>
+                    <a href="http://www.jjan.kr/" target="_blank" title="전북일보"><img src="/assets/images/common/bn8.gif" alt="전북일보"></a>
+                </li>
+                <li>
+                    <a href="http://www.jejunews.com/" target="_blank" title="제주신보"><img src="/assets/images/common/bn9.gif" alt="제주일보"></a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+<!-- 파트너 끝 -->
+
+<!-- 푸터 시작 -->
+<div id="footer">
+    <div class="inner">
+        <div class="f_logo">
+            <a href="#"><img src="https://news.imaeil.com/upload/blogo.png" alt="매일신문 로고"></a>
+        </div>
+        <div class="info">
+            <ul class="services">
+                <li><a href="/company/intro">회사소개</a></li>
+                <li><a href="http://a.imaeil.com/_ads" target="_blank">광고안내</a></li>
+                <li><a href="http://a.imaeil.com/subscribe/" target="_blank">구독신청</a></li>
+                <li><a href="http://a.imaeil.com/cp/resolve.html" target="_blank">고충처리인운영규정</a></li>
+                <li><a href="http://a.imaeil.com/cp/teen.html" target="_blank">청소년보호정책</a></li>
+                <li><a href="http://a.imaeil.com/cp/privacy.html" target="_blank">개인정보처리방침</a></li>
+                <li><a href="http://a.imaeil.com/cp/business.html" target="_blank">사업제휴</a></li>
+                <li><a href="http://a.imaeil.com/cp/ethics.html" target="_blank">편집윤리규정</a></li>
+                <li><a href="http://a.imaeil.com/cp/ethicalautonomy.html" target="_blank">윤리자율규제지침</a></li>
+                <li><a href="http://a.imaeil.com/cp/NewspaperEthics.html" target="_blank">윤리실천요강</a></li>
+            </ul>
+            <p class="company_info">
+                본사 : 대구광역시 중구 서성로20 (계산 2가 71번지) 매일신문사 (우 41933) : TEL : (053) 255-5001~7<br>
+                경북본사 : 경북 안동시 풍천면 수호로 63, 3층(우 36759) : TEL : (054) 855-1700<br>
+                서울지사 : 서울특별시 중구 세종대로 124 (태평로 1가 25) 한국프레스센터 1801호 (우 04520) : TEL(02) 733-0755~6<br>
+                인터넷신문등록번호 : 대구,아00201 등록일자 : 2016.11.28 발행인 : 정창룡, 편집인 : 정창룡
+            </p>
+            <p class="copyright">Copyright ⓒ MAEIL, All right reserved</p>
+        </div>
+        <!--div class="powered">
+            <img src="/assets/images/common/powered.png" alt="powered by ami">
+        </div-->
+            </div>
+</div>
+<!-- 푸터 끝 -->
+    <input type="hidden" id="ca_code" value="2023042801345397733"/>
+</div>
+
+<div class="bu-modal fade" id="commentDeleteModal" tabindex="-1" role="dialog" aria-labelledby="commentDeleteModalLabel" aria-hidden="true">
+    <div class="bu-modal-background"></div>
+    <div class="bu-modal-card" role="document">
+        <div class="bu-modal-content">
+            <div class="bu-modal-card-head">
+                <h5 class="bu-modal-card-title" id="commentDeleteModalLabel">댓글 삭제</h5>
+                <button type="button" class="bu-delete" data-dismiss="modal" aria-label="Close">
+                </button>
+            </div>
+            <div class="bu-modal-card-body">
+                <input type="password" id="chk_cmt_password" />
+            </div>
+            <div class="bu-modal-card-foot">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                <button type="button" class="btn btn-primary" id="delete_comment_btn" data-cmt_id="">댓글삭제</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+</body>
+</html>

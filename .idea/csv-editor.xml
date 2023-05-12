@@ -52,6 +52,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\9_상품리뷰분석#nltk#wordcloud\yelp.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\fifa\fifa21.csv">
           <value>
             <Attribute>

@@ -10,6 +10,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\11_공유자전거 수요예측\SeoulBikeData.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\2_고객별_연간_지출액_예측#LinearRegression\ecommerce.csv">
           <value>
             <Attribute>

@@ -3,6 +3,13 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
+        <entry key="\10_선형회귀와 경사하강법\houseprice.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\2_고객별_연간_지출액_예측#LinearRegression\ecommerce.csv">
           <value>
             <Attribute>

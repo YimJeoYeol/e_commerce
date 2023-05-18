@@ -48,6 +48,7 @@ for 검색어 in 검색어리스트:
     이미지리스트 = driver.find_elements(By.CSS_SELECTOR, "div > div > div > a > div > img[width]")
     이미지리스트 += driver.find_elements(By.CSS_SELECTOR, "div > div > div > div > a > div > img[width]")
     소스리스트 = [i.get_attribute("src") for i in 이미지리스트]
+
     전체길이 = len(이미지리스트)
 
     for idx, img in enumerate(소스리스트):

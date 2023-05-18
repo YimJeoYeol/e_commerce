@@ -3,12 +3,10 @@ import glob
 
 import numpy as np
 from PIL import Image
-from keras import regularizers
 from sklearn.model_selection import train_test_split
 import keras
 from keras.models import Sequential
 from keras.layers import Conv2D, MaxPool2D
-from keras.layers import Activation
 from keras.layers import Dropout
 from keras.layers import Dense
 from keras.layers import Flatten
@@ -63,9 +61,6 @@ y_t = np.array(y_t)
 # 데이터 로딩
 def load_datasets():
     X_train, X_val, y_train, y_val = train_test_split(X, Y, test_size=0.2)
-    # X_train = X_train.astype("float").reshape(-1, 64, 64, 3) / 255
-    # X_val = X_val.astype("float").reshape(-1, 64, 64, 3) / 255
-    # X_test = X_t.astype("float").reshape(-1, 64, 64, 3) / 255
     X_train = X_train.reshape(-1, 64, 64, 3) / 255
     X_val = X_val.reshape(-1, 64, 64, 3) / 255
     X_test = X_t.reshape(-1, 64, 64, 3) / 255
@@ -78,27 +73,26 @@ def load_datasets():
 # 모델 구성
 def build_model(in_shape):
     model = Sequential()
-    model.add(Conv2D(filters=32, kernel_size=3, strides=3, padding="same", activation="relu", input_shape=in_shape))
+    model.add(Conv2D(filters=32, kernel_size=3, padding="valid", activation="relu", input_shape=in_shape))
     model.add(MaxPool2D(pool_size=2))
     model.add(Dropout(0.25))
-    model.add(Conv2D(filters=64, kernel_size=3, strides=3, padding="same", activation="relu"))
+    model.add(Conv2D(filters=64, kernel_size=3, padding="valid", activation="relu"))
     model.add(MaxPool2D(pool_size=2))
-    model.add(Conv2D(filters=64, kernel_size=3, strides=3, padding="valid"))
-    model.add(MaxPool2D(pool_size=2))
+    # model.add(Conv2D(filters=64, kernel_size=3, padding="valid"))
+    # model.add(MaxPool2D(pool_size=2))
     model.add(Dropout(0.25))
     model.add(Flatten())
-    model.add(Dense(units=512), activation="relu")
+    model.add(Dense(units=50, activation="relu"))
     model.add(Dropout(0.5))
-    model.add(Dense(units=6), activation="softmax")
+    model.add(Dense(units=6, activation="softmax"))
     model.compile(loss="binary_crossentropy", optimizer="rmsprop", metrics=["accuracy"])
     return model
 
 
 def model_train(x, y):
     model = build_model(x.shape[1:])
-    early_stopping_cb = keras.callbacks.EarlyStopping(
-        patience=20, restore_best_weights=True)
-    history = model.fit(x, y, batch_size=16, epochs=100, validation_data=(X_val, y_val), callbacks=[early_stopping_cb])
+    early_stopping_cb = keras.callbacks.EarlyStopping(patience=20, restore_best_weights=True)
+    history = model.fit(x, y, batch_size=16, epochs=200, validation_data=(X_val, y_val), callbacks=[early_stopping_cb])
     return model, history
 
 

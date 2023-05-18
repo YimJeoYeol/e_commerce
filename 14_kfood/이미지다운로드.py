@@ -5,7 +5,6 @@ import urllib
 from selenium import webdriver
 import chromedriver_autoinstaller
 from selenium.common import ElementNotInteractableException
-from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
 
 검색어 = "제육볶음"  # 된장찌개, 돌솥비빔밥, 김치, 치킨, 삼겹살
@@ -15,9 +14,6 @@ except FileExistsError as e:
     pass
 
 chromedriver_autoinstaller.install()
-# options = Options()
-# options.add_argument("--headless")
-# driver = webdriver.Chrome(chrome_options=options)
 driver = webdriver.Chrome()
 
 driver.get("https://www.google.com")
